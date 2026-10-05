@@ -1,0 +1,208 @@
+# =====================================================================
+#  RADAR EMPLOI — configuration
+#  C'est le seul fichier à modifier pour ajuster votre veille.
+#  Les identifiants (clés API, Telegram, email) ne vont JAMAIS ici :
+#  ils se mettent dans Settings > Secrets and variables > Actions sur GitHub.
+# =====================================================================
+
+# Adresse du tableau de bord (GitHub Pages), utilisée dans les alertes.
+tableau_de_bord_url: "https://VOTRE-COMPTE.github.io/radar-emploi/"
+
+# ---------------------------------------------------------------------
+# PROFILS RECHERCHÉS
+#   requetes        : termes envoyés aux moteurs (France Travail, APEC,
+#                     Adzuna, Google Jobs). Une requête = un appel.
+#   mots_cles_titre : une offre est retenue si son TITRE contient l'un
+#                     de ces termes (accents et majuscules ignorés,
+#                     mot entier : « DAF » ne matche pas « DAFNE »).
+#   mots_cles_description : (optionnel) retenue aussi si la DESCRIPTION
+#                     contient l'un de ces termes — marquée « à vérifier ».
+# ---------------------------------------------------------------------
+profils:
+  finance:
+    libelle: Finance
+    requetes:
+      - contrôleur de gestion
+      - directeur financier
+      - responsable comptable
+      - analyste financier
+      - trésorier
+    mots_cles_titre:
+      - contrôleur de gestion
+      - controleur de gestion
+      - contrôleur financier
+      - controller
+      - business controller
+      - directeur financier
+      - directrice financière
+      - DAF
+      - CFO
+      - responsable financier
+      - responsable administratif et financier
+      - RAF
+      - chef comptable
+      - responsable comptable
+      - analyste financier
+      - financial analyst
+      - FP&A
+      - trésorier
+      - trésorerie
+      - treasury
+      - credit manager
+      - consolidation
+      - auditeur interne
+      - audit interne
+    mots_cles_description: []
+
+  juridique:
+    libelle: Juridique
+    requetes:
+      - juriste
+      - directeur juridique
+      - legal counsel
+      - compliance officer
+      - avocat
+    mots_cles_titre:
+      - juriste
+      - legal counsel
+      - legal manager
+      - head of legal
+      - general counsel
+      - directeur juridique
+      - directrice juridique
+      - responsable juridique
+      - avocat
+      - avocate
+      - paralegal
+      - compliance officer
+      - responsable conformité
+      - chargé de conformité
+      - contract manager
+      - DPO
+      - délégué à la protection des données
+    mots_cles_description: []
+
+  rh:
+    libelle: RH
+    requetes:
+      - responsable ressources humaines
+      - DRH
+      - HR business partner
+      - chargé de recrutement
+      - responsable paie
+    mots_cles_titre:
+      - ressources humaines
+      - RRH
+      - DRH
+      - HRBP
+      - HR business partner
+      - HR manager
+      - head of people
+      - people manager
+      - chargé de recrutement
+      - chargée de recrutement
+      - talent acquisition
+      - recruteur
+      - recruteuse
+      - responsable paie
+      - gestionnaire paie
+      - chargé RH
+      - chargée RH
+      - développement RH
+      - relations sociales
+    mots_cles_description: []
+
+# Offres écartées si leur TITRE contient l'un de ces termes.
+# Retirez des lignes si vous voulez aussi les stages/alternances.
+exclure_titre:
+  - stage
+  - stagiaire
+  - alternance
+  - alternant
+  - alternante
+  - apprenti
+  - apprentie
+  - apprentissage
+  - intern
+  - internship
+
+# ---------------------------------------------------------------------
+# LOCALISATION
+#   lieux vide = toute la France. Sinon, une offre est gardée si son lieu
+#   contient l'un de ces textes (ex : "Paris", "Lyon", "92", "Île-de-France").
+# ---------------------------------------------------------------------
+localisation:
+  lieux: []
+  garder_teletravail: true      # garder les offres « télétravail / remote » même hors zone
+  garder_lieu_inconnu: true     # dans le doute, on garde (principe anti-oubli)
+
+# Entreprises mises en avant (⭐ dans les alertes et le tableau de bord).
+entreprises_prioritaires: []
+
+# ---------------------------------------------------------------------
+# ALERTES
+# ---------------------------------------------------------------------
+alertes:
+  telegram:
+    actif: true
+    max_messages_individuels: 10   # au-delà, les offres sont groupées en liste
+  email:
+    actif: true
+    mode: quotidien                # "quotidien" (digest) ou "chaque_passage"
+    heure: 8                       # heure (Paris) d'envoi du digest quotidien
+  bilan_hebdo: true                # lundi matin : bilan de la semaine + santé des sources
+  pannes:
+    echecs_avant_alerte: 2         # alerte si une source échoue N passages de suite
+    zero_avant_alerte: 6           # alerte si une source habituellement active renvoie 0 résultat N fois de suite
+
+# ---------------------------------------------------------------------
+# COLLECTE
+# ---------------------------------------------------------------------
+collecte:
+  recouvrement_heures: 48          # chaque passage relit les 48 dernières heures (filet de sécurité)
+  premier_passage_jours: 7         # historique récupéré lors du tout premier passage
+  conservation_jours: 120          # les offres plus anciennes sont purgées du tableau de bord
+  fenetre_doublons_jours: 45       # même titre + entreprise + ville dans cette fenêtre = doublon
+
+# ---------------------------------------------------------------------
+# SOURCES
+#   intervalle_heures : délai minimum entre deux interrogations de la source
+#   (utile pour les API au quota limité).
+# ---------------------------------------------------------------------
+sources:
+  francetravail:
+    actif: true                    # secrets : FRANCETRAVAIL_CLIENT_ID, FRANCETRAVAIL_CLIENT_SECRET
+    departements: []               # ex : ["75", "92", "69"] — vide = toute la France
+  apec:
+    actif: true                    # aucune clé requise (API non officielle, surveillée)
+  adzuna:
+    actif: true                    # secrets : ADZUNA_APP_ID, ADZUNA_APP_KEY
+    intervalle_heures: 3
+    lieu: ""                       # ex : "Paris" — vide = toute la France
+  google_jobs:
+    actif: false                   # secret : SERPAPI_KEY (payant au-delà du quota gratuit)
+    intervalle_heures: 12
+    lieu: France
+    pages_max: 2
+    requetes: []                   # vide = mêmes requêtes que les profils
+
+  # Pages carrières d'entreprises cibles, via leur logiciel de recrutement.
+  # Pour trouver l'identifiant : regardez l'URL de leur page « Carrières ».
+  #   greenhouse      -> boards.greenhouse.io/<id>
+  #   lever           -> jobs.lever.co/<id>   (jobs.eu.lever.co -> ajoutez region: eu)
+  #   ashby           -> jobs.ashbyhq.com/<id>
+  #   smartrecruiters -> jobs.smartrecruiters.com/<id>
+  #   workable        -> apply.workable.com/<id>
+  entreprises: []
+  #  - {nom: Doctolib, ats: greenhouse, id: doctolib}
+  #  - {nom: Qonto,    ats: lever,      id: qonto, region: eu}
+  #  - {nom: Alan,     ats: ashby,      id: alan}
+
+  # Flux RSS d'offres (Teamtailor, sites de cabinets, jobboards spécialisés…).
+  rss: []
+  #  - {nom: Exemple, url: "https://exemple.teamtailor.com/jobs.rss"}
+
+  # Pages carrières sans API : chaque nouveau lien dont le texte correspond
+  # à vos mots-clés est signalé. Ne fonctionne pas sur les pages 100 % JavaScript.
+  pages: []
+  #  - {nom: Cabinet X, url: "https://www.cabinetx.fr/carrieres", motif_lien: "/offre"}

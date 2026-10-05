@@ -1,0 +1,325 @@
+# =====================================================================
+#  RADAR EMPLOI — configuration
+#  C'est le seul fichier à modifier pour ajuster votre veille.
+#  Les identifiants (clés API, Telegram, email) ne vont JAMAIS ici :
+#  ils se mettent dans Settings > Secrets and variables > Actions sur GitHub.
+#
+#  Cible : premier poste (analyste / junior / graduate) en CDI dans la
+#  finance, la banque, les marchés et la vente financière.
+#  Zone : Paris, ou grandes places financières à l'étranger.
+#  Réglages à valider avec vous : voir les lignes marquées « À CONFIRMER ».
+# =====================================================================
+
+# Adresse du tableau de bord (GitHub Pages), utilisée dans les alertes.
+tableau_de_bord_url: "https://axe44070.github.io/radar-emploi/"
+
+# ---------------------------------------------------------------------
+# PROFILS RECHERCHÉS
+#   requetes / requetes_en : termes envoyés aux moteurs (une requête = un
+#                     appel). Les requêtes françaises et anglaises sont
+#                     toutes deux utilisées sur les sources françaises ;
+#                     les sources étrangères n'utilisent que l'anglais.
+#   mots_cles_titre : une offre est retenue si son TITRE contient l'un
+#                     de ces termes (accents et majuscules ignorés,
+#                     mot entier : « DAF » ne matche pas « DAFNE »).
+#   mots_cles_description : (optionnel) retenue aussi si la DESCRIPTION
+#                     contient l'un de ces termes — marquée « à vérifier ».
+# ---------------------------------------------------------------------
+profils:
+  finance:
+    libelle: Finance
+    requetes:
+      - analyste financier junior
+      - analyste financier
+      - analyste fusions acquisitions
+      - analyste private equity
+      - contrôleur de gestion junior
+    requetes_en:
+      - junior financial analyst
+      - investment banking analyst
+      - M&A analyst
+      - private equity analyst
+      - FP&A analyst
+      - corporate finance analyst
+    mots_cles_titre:
+      - analyste financier
+      - analyste financière
+      - analyste finance
+      - analyste m&a
+      - analyste fusions acquisitions
+      - analyste private equity
+      - analyste corporate finance
+      - analyste de gestion
+      - analyste fp&a
+      - contrôleur de gestion junior
+      - controleur de gestion junior
+      - financial analyst
+      - finance analyst
+      - investment analyst
+      - investment banking
+      - m&a analyst
+      - mergers and acquisitions
+      - corporate finance
+      - private equity
+      - fp&a
+      - valuation analyst
+      - equity research
+      - research analyst
+      - credit analyst
+      - analyste crédit
+      - analyste credit
+      - fund analyst
+      - asset management analyst
+      - portfolio analyst
+      - finance graduate
+    mots_cles_description: []
+
+  banque:
+    libelle: Banque
+    requetes:
+      - analyste banque
+      - chargé d'affaires junior banque
+      - middle office
+      - analyste risques bancaires
+      - conformité KYC analyste
+      - programme graduate banque
+    requetes_en:
+      - banking analyst
+      - risk analyst bank
+      - middle office analyst
+      - KYC analyst
+      - operations analyst bank
+      - graduate programme bank
+    mots_cles_titre:
+      - analyste risque
+      - analyste risques
+      - analyste conformité
+      - analyste conformite
+      - analyste kyc
+      - analyste lcb-ft
+      - analyste middle office
+      - chargé d'affaires junior
+      - charge d'affaires junior
+      - chargé de clientèle
+      - conseiller clientèle
+      - middle office
+      - back office
+      - risk analyst
+      - credit risk
+      - market risk
+      - compliance analyst
+      - kyc
+      - aml analyst
+      - banking analyst
+      - operations analyst
+      - relationship analyst
+      - trade support
+      - graduate programme
+      - graduate program
+      - graduate scheme
+      - programme graduate
+      - jeune diplômé
+      - jeune diplome
+    mots_cles_description: []
+
+  marches:
+    libelle: Marchés et sales
+    requetes:
+      - sales marchés
+      - sales trader
+      - trader junior
+      - courtier marchés
+      - analyste marchés financiers
+      - structuration produits financiers
+    requetes_en:
+      - sales analyst capital markets
+      - sales trader
+      - junior trader
+      - broker
+      - markets analyst
+      - structuring analyst
+      - fixed income sales
+      - equity sales
+    mots_cles_titre:
+      - sales marchés
+      - sales marches
+      - sales trader
+      - sales analyst
+      - sales assistant
+      - sales structurer
+      - structurer
+      - structureur
+      - structuration
+      - structuring
+      - trader
+      - trading assistant
+      - trading analyst
+      - broker
+      - courtier
+      - marchés de capitaux
+      - marches de capitaux
+      - capital markets
+      - equity sales
+      - fixed income
+      - fx sales
+      - rates sales
+      - credit sales
+      - front office
+      - market analyst
+      - analyste marchés
+      - analyste marches
+    mots_cles_description: []
+
+# Offres écartées si leur TITRE contient l'un de ces termes.
+# Contrat : CDI uniquement -> stages, alternances, VIE écartés.
+# Séniorité : premier poste -> postes confirmés ou de direction écartés.
+# Retirez des lignes pour élargir (ex. « manager », « associate »).
+exclure_titre:
+  # contrats hors CDI
+  - stage
+  - stagiaire
+  - alternance
+  - alternant
+  - alternante
+  - apprenti
+  - apprentie
+  - apprentissage
+  - intern
+  - internship
+  - summer analyst
+  - summer internship
+  - placement year
+  - industrial placement
+  - vie
+  - v.i.e
+  - volontariat international
+  # séniorité
+  - senior
+  - sr
+  - confirmé
+  - confirmée
+  - expérimenté
+  - expérimentée
+  - director
+  - directeur
+  - directrice
+  - managing director
+  - head of
+  - head
+  - vice president
+  - vp
+  - svp
+  - principal
+  - lead
+  - manager
+  - responsable
+  - chef
+  - partner
+  - associé
+
+# ---------------------------------------------------------------------
+# LOCALISATION                                              À CONFIRMER
+#   Paris + La Défense (dép. 92), puis grandes places financières.
+#   lieux vide = tous lieux. Sinon, une offre est gardée si son lieu
+#   contient l'un de ces textes (mot entier, accents ignorés).
+# ---------------------------------------------------------------------
+localisation:
+  lieux:
+    - Paris
+    - 75
+    - 92
+    - La Défense
+    - London
+    - Londres
+    - New York
+    - Frankfurt
+    - Francfort
+    - Luxembourg
+    - Geneva
+    - Genève
+    - Zurich
+    - Singapore
+    - Singapour
+    - Hong Kong
+  garder_teletravail: false     # le poste doit être sur place
+  garder_lieu_inconnu: true     # dans le doute, on garde (principe anti-oubli)
+
+# Entreprises mises en avant (⭐ dans les alertes et le tableau de bord).
+# À CONFIRMER : liste de banques, brokers et fonds visés.
+entreprises_prioritaires: []
+
+# ---------------------------------------------------------------------
+# ALERTES
+# ---------------------------------------------------------------------
+alertes:
+  telegram:
+    actif: true
+    max_messages_individuels: 10   # au-delà, les offres sont groupées en liste
+  email:
+    actif: true
+    mode: quotidien                # "quotidien" (digest) ou "chaque_passage"
+    heure: 8                       # heure (Paris) d'envoi du digest quotidien
+  bilan_hebdo: true                # lundi matin : bilan de la semaine + santé des sources
+  pannes:
+    echecs_avant_alerte: 2         # alerte si une source échoue N passages de suite
+    zero_avant_alerte: 6           # alerte si une source habituellement active renvoie 0 résultat N fois de suite
+
+# ---------------------------------------------------------------------
+# COLLECTE
+# ---------------------------------------------------------------------
+collecte:
+  recouvrement_heures: 48          # chaque passage relit les 48 dernières heures (filet de sécurité)
+  premier_passage_jours: 7         # historique récupéré lors du tout premier passage
+  conservation_jours: 120          # les offres plus anciennes sont purgées du tableau de bord
+  fenetre_doublons_jours: 45       # même titre + entreprise + ville dans cette fenêtre = doublon
+
+# ---------------------------------------------------------------------
+# SOURCES
+#   intervalle_heures : délai minimum entre deux interrogations de la source
+#   (utile pour les API au quota limité).
+# ---------------------------------------------------------------------
+sources:
+  francetravail:
+    actif: true                    # secrets : FRANCETRAVAIL_CLIENT_ID, FRANCETRAVAIL_CLIENT_SECRET
+    departements: ["75", "92"]     # Paris et Hauts-de-Seine (La Défense) ; vide = toute la France
+  apec:
+    actif: true                    # aucune clé requise (API non officielle, surveillée)
+                                   # APEC = offres cadres : moins de postes juniors, utile en complément
+  adzuna:
+    actif: true                    # secrets : ADZUNA_APP_ID, ADZUNA_APP_KEY
+    intervalle_heures: 6           # ménage le quota gratuit (à vérifier dans votre compte Adzuna)
+    pays:                          # un appel par requête et par ligne ci-dessous
+      - {code: fr, lieu: Paris,       langue: fr}
+      - {code: gb, lieu: London,      langue: en}
+      - {code: us, lieu: New York,    langue: en}
+      - {code: de, lieu: Frankfurt,   langue: en}
+      - {code: ch, lieu: Geneva,      langue: en}
+      - {code: ch, lieu: Zurich,      langue: en}
+      - {code: sg, lieu: Singapore,   langue: en}
+  google_jobs:
+    actif: false                   # secret : SERPAPI_KEY (payant au-delà du quota gratuit)
+    intervalle_heures: 12          # utile pour LinkedIn/Indeed, Luxembourg et Hong Kong (non couverts par Adzuna)
+    lieu: France
+    pages_max: 2
+    requetes: []                   # vide = mêmes requêtes que les profils
+
+  # Pages carrières d'entreprises cibles, via leur logiciel de recrutement.
+  # Pour trouver l'identifiant : regardez l'URL de leur page « Carrières ».
+  #   greenhouse      -> boards.greenhouse.io/<id>
+  #   lever           -> jobs.lever.co/<id>   (jobs.eu.lever.co -> ajoutez region: eu)
+  #   ashby           -> jobs.ashbyhq.com/<id>
+  #   smartrecruiters -> jobs.smartrecruiters.com/<id>
+  #   workable        -> apply.workable.com/<id>
+  # Attention : la plupart des grandes banques utilisent Workday ou Taleo,
+  # non couverts pour l'instant. Envoyez-moi les pages carrières visées.
+  entreprises: []
+  #  - {nom: Exemple, ats: greenhouse, id: exemple}
+
+  # Flux RSS d'offres (Teamtailor, sites de cabinets, jobboards spécialisés…).
+  rss: []
+  #  - {nom: Exemple, url: "https://exemple.teamtailor.com/jobs.rss"}
+
+  # Pages carrières sans API : chaque nouveau lien dont le texte correspond
+  # à vos mots-clés est signalé. Ne fonctionne pas sur les pages 100 % JavaScript.
+  pages: []
+  #  - {nom: Cabinet X, url: "https://www.cabinetx.fr/carrieres", motif_lien: "/offre"}
