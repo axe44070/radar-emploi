@@ -1,0 +1,30 @@
+[
+ {
+  "at": "2026-10-15T14:42:21Z",
+  "sources": {
+   "francetravail": {
+    "status": "erreur",
+    "error": "SourceError: authentification refusée (400) : {\"error_description\":\"Client authentication failed\",\"error\":\"invalid_client\"}"
+   },
+   "apec": {
+    "status": "erreur",
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.apec.fr/cms/webservices/rechercheOffre"
+   },
+   "adzuna": {
+    "status": "ok",
+    "raw": 1086,
+    "kept": 126,
+    "new": 119,
+    "merged": 7
+   }
+  },
+  "new": 0,
+  "merged": 7,
+  "initial": 119,
+  "purged": 0,
+  "warnings": [],
+  "duration_s": 34.9,
+  "notification_errors": [],
+  "events": []
+ }
+]
