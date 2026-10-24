@@ -1,5 +1,456 @@
 [
  {
+  "id": "0f0d0be22f6bceee",
+  "ids": [
+   "0f0d0be22f6bceee"
+  ],
+  "fuzzy": "investment banking consumer retail analyst new york|morgan stanley|new",
+  "title": "Investment Banking Consumer Retail Analyst - New York",
+  "company": "Morgan Stanley",
+  "location": "New York City, New York",
+  "url": "https://www.adzuna.com/details/5940207565?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-24T04:23:02Z",
+  "first_seen": "2026-10-24T08:58:42Z",
+  "last_seen": "2026-10-24T08:58:42Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.com/details/5940207565?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "110 000 – 125 000 $",
+  "snippet": "Our New York City office is looking for an Investment Banking Analyst to join the Consumer & Retail Group. The successful candidate will have the opportunity to work with regional and international clients on a wide range of complex transactions including acquisitions, divestitures, mergers, joint ventures, corporate restructurings, shareholder relations, recapitalizations, demergers, leveraged bu",
+  "initial": false
+ },
+ {
+  "id": "b06e7249b234d265",
+  "ids": [
+   "b06e7249b234d265"
+  ],
+  "fuzzy": "investment banking analyst|selby jennings|manhattan",
+  "title": "Investment Banking Analyst",
+  "company": "Selby Jennings",
+  "location": "Manhattan, New York City",
+  "url": "https://www.adzuna.com/land/ad/5939638365?se=PByvEInP8RG17O__M5KguQ&utm_medium=api&utm_source=d0504545&v=2FAE2B1F3119F1ED9DA558F6A48205055FD2DB6E",
+  "published": "2026-10-23T16:31:16Z",
+  "first_seen": "2026-10-24T08:58:42Z",
+  "last_seen": "2026-10-24T08:58:42Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.com/land/ad/5939638365?se=PByvEInP8RG17O__M5KguQ&utm_medium=api&utm_source=d0504545&v=2FAE2B1F3119F1ED9DA558F6A48205055FD2DB6E"
+   }
+  ],
+  "profiles": [
+   "Finance",
+   "Banque"
+  ],
+  "score": 5,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "106 184 – 106 184 $",
+  "snippet": "Title: Investment Banking Analyst Company Summary: We are currently working with a top tier Investment Banking team looking to add an Investment Banking Analyst to their growing software M&A team. You will have the opportunity to support end-to-end deal execution process, continue to gain extensive M&A experience as well as gain direct client facing experience with a lean deal team. The Investment",
+  "initial": false
+ },
+ {
+  "id": "38bec2fc6f59baa8",
+  "ids": [
+   "38bec2fc6f59baa8"
+  ],
+  "fuzzy": "institutional sales trader international|corgi|new",
+  "title": "Institutional Sales Trader, International",
+  "company": "Corgi",
+  "location": "New York City, New York",
+  "url": "https://www.adzuna.com/land/ad/5939678461?se=-mNOEYnP8RG17O__M5KguQ&utm_medium=api&utm_source=d0504545&v=6C6C5893AF64C549A293A88B45E3390E789BA067",
+  "published": "2026-10-23T18:20:44Z",
+  "first_seen": "2026-10-24T08:58:42Z",
+  "last_seen": "2026-10-24T08:58:42Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.com/land/ad/5939678461?se=-mNOEYnP8RG17O__M5KguQ&utm_medium=api&utm_source=d0504545&v=6C6C5893AF64C549A293A88B45E3390E789BA067"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "127 105 – 127 105 $",
+  "snippet": "Institutional Sales Trader, International APAC, EMEA & LATAM New York City | Full-time Corgi is recruiting experienced international sales traders with established, portable client relationships to cover APAC, EMEA and LATAM markets during live hours. Why Corgi? Join a growing institutional sales-trading business with international trading supported by a 24/6 live global trading desk. The Opportun",
+  "initial": false
+ },
+ {
+  "id": "3fff6da403a40436",
+  "ids": [
+   "3fff6da403a40436"
+  ],
+  "fuzzy": "investment banking program analyst corporate finance|wells fargo bank|new",
+  "title": "Investment Banking Program Analyst - Corporate Finance",
+  "company": "Wells Fargo Bank",
+  "location": "New York City, New York",
+  "url": "https://www.adzuna.com/details/5940164319?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-24T02:46:25Z",
+  "first_seen": "2026-10-24T08:58:42Z",
+  "last_seen": "2026-10-24T08:58:42Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.com/details/5940164319?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 5,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "110 000 – 135 000 $",
+  "snippet": "The Corporate & Investment Bank (CIB) delivers a comprehensive suite of banking, capital markets and advisory solutions, including a full complement of sales, trading and research capabilities, to corporate, government and institutional clients. We focus on our clients' overall financial needs, with consideration and respect for their total relationship with Wells Fargo. Learn more about the caree",
+  "initial": false
+ },
+ {
+  "id": "37ff295c992c8c41",
+  "ids": [
+   "37ff295c992c8c41"
+  ],
+  "fuzzy": "associate capital markets|tiaa|new",
+  "title": "Associate, Capital Markets",
+  "company": "TIAA",
+  "location": "New York City, New York",
+  "url": "https://www.adzuna.com/details/5940089478?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-24T01:35:21Z",
+  "first_seen": "2026-10-24T08:58:42Z",
+  "last_seen": "2026-10-24T08:58:42Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.com/details/5940089478?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "106 000 – 135 000 $",
+  "snippet": "The Associate Capital Markets (Equity) reports to the Senior Director Capital Markets and assists with evaluating, analyzing and securing third party debt for Nuveen Real Estate's direct equity investments including acquisition, development and refinancing opportunities. In addition to placement of secured third party financing solutions for the US equity business, the Associate Capital Markets (E",
+  "initial": false
+ },
+ {
+  "id": "4341ac3087755903",
+  "ids": [
+   "4341ac3087755903"
+  ],
+  "fuzzy": "equites trade support analyst|selby jennings|manhattan",
+  "title": "Equites Trade Support Analyst",
+  "company": "Selby Jennings",
+  "location": "Manhattan, New York City",
+  "url": "https://www.adzuna.com/land/ad/5939726577?se=eKGXEYnP8RG17O__M5KguQ&utm_medium=api&utm_source=d0504545&v=4985181F80E8AD7A1795B36FA7DABA01EE9C4418",
+  "published": "2026-10-23T20:29:42Z",
+  "first_seen": "2026-10-24T08:58:42Z",
+  "last_seen": "2026-10-24T08:58:42Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.com/land/ad/5939726577?se=eKGXEYnP8RG17O__M5KguQ&utm_medium=api&utm_source=d0504545&v=4985181F80E8AD7A1795B36FA7DABA01EE9C4418"
+   }
+  ],
+  "profiles": [
+   "Banque"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "108 667 – 108 667 $",
+  "snippet": "Equity Trade Support Analyst Our client is a leading quantitative trading and market-making firm seeking an Operations Analyst to support its growing ETF, cash equities, and options trading business. This individual will play a critical role in managing post-trade processes, partnering closely with traders, brokers, clearing firms, and internal stakeholders to ensure the seamless flow of transacti",
+  "initial": false
+ },
+ {
+  "id": "fecdccf406121da9",
+  "ids": [
+   "fecdccf406121da9"
+  ],
+  "fuzzy": "otc middle office analyst post trade automation|hudson river trading|singapore",
+  "title": "OTC Middle Office Analyst — Post-Trade Automation",
+  "company": "Hudson River Trading",
+  "location": "Singapore",
+  "url": "https://www.adzuna.sg/details/5937634967?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-22T16:49:45Z",
+  "first_seen": "2026-10-24T08:58:42Z",
+  "last_seen": "2026-10-24T08:58:42Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.sg/details/5937634967?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Banque"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "1 080 – 1 560 S$",
+  "snippet": "Hudson River Trading in Singapore is seeking a Middle Office Analyst focused on OTC products. The role supports the post-trade platform, reconciling positions, PnL, and cash while collaborating with multiple teams across a fast-paced, technology-driven environment. The ideal candidate has a technical background, strong cross-functional communication skills, and a can-do attitude to tackle diverse ",
+  "initial": false
+ },
+ {
+  "id": "135b97ce695116c6",
+  "ids": [
+   "135b97ce695116c6"
+  ],
+  "fuzzy": "ship broker liquid bulk|goodrich asia pacific pte|singapore",
+  "title": "Ship Broker (Liquid Bulk)",
+  "company": "GOODRICH ASIA PACIFIC PTE. LTD.",
+  "location": "Singapore",
+  "url": "https://www.adzuna.sg/details/5939017150?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-23T16:44:32Z",
+  "first_seen": "2026-10-24T08:58:42Z",
+  "last_seen": "2026-10-24T08:58:42Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.sg/details/5939017150?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "1 080 – 1 800 S$",
+  "snippet": "The responsibilities of the Broker Identifying Potential Ships for Employment - Source suitable vessels for specific chartering or trading opportunities. Business Development - Develop new customers and expand the client base by identifying and pursuing new business opportunities. Market Intelligence - Maintain up-to-date market data and stay informed on relevant shipping trends and developments. ",
+  "initial": false
+ },
+ {
+  "id": "d68db536502e5ac0",
+  "ids": [
+   "d68db536502e5ac0"
+  ],
+  "fuzzy": "liquid bulk ship broker chartering market insights|goodrich asia pacific pte|singapore",
+  "title": "Liquid Bulk Ship Broker: Chartering & Market Insights",
+  "company": "GOODRICH ASIA PACIFIC PTE. LTD.",
+  "location": "Singapore",
+  "url": "https://www.adzuna.sg/details/5939005939?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-23T16:38:19Z",
+  "first_seen": "2026-10-24T08:58:42Z",
+  "last_seen": "2026-10-24T08:58:42Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.sg/details/5939005939?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "1 080 – 1 800 S$",
+  "snippet": "GOODRICH ASIA PACIFIC PTE. LTD. is seeking an experienced Broker to source suitable vessels, develop new customers, and provide market insights for chartering opportunities. The role requires strong negotiation skills and the ability to manage COAs with shipowners and charterers. The successful candidate will maintain market intelligence, conduct detailed analyses, and communicate effectively with",
+  "initial": false
+ },
+ {
+  "id": "da3da78d1d414820",
+  "ids": [
+   "da3da78d1d414820"
+  ],
+  "fuzzy": "lng structuring analyst advisor|gmp technologies|singapore",
+  "title": "LNG Structuring Analyst/Advisor",
+  "company": "GMP Technologies",
+  "location": "Singapore",
+  "url": "https://www.adzuna.sg/details/5937637522?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-22T16:50:08Z",
+  "first_seen": "2026-10-24T08:58:42Z",
+  "last_seen": "2026-10-24T08:58:42Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.sg/details/5937637522?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "1 080 – 1 560 S$",
+  "snippet": "About the job LNG Structuring Analyst/Advisor Key Responsibilities Proactively seek out key developments in the global natural gas, LNG and LNG shipping industry including contract structure and commercial parameters through independent research and networking with internal and external contacts. Act as the main conduit to effectively and timely centralize and distribute pertinent market informati",
+  "initial": false
+ },
+ {
+  "id": "008cb65ee7433aea",
+  "ids": [
+   "008cb65ee7433aea"
+  ],
+  "fuzzy": "finaxys recrute un business analyst fixed income f h|finaxys|paris",
+  "title": "FINAXYS recrute un Business Analyst Fixed Income F/H",
+  "company": "FINAXYS",
+  "location": "Paris, Ile-de-France",
+  "url": "https://www.adzuna.fr/details/5939165356?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-23T13:22:24Z",
+  "first_seen": "2026-10-24T08:58:41Z",
+  "last_seen": "2026-10-24T08:58:41Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.fr/details/5939165356?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "permanent",
+  "salary": "",
+  "snippet": "En tant que Business Analyst Produits de Taux / Fixed Income, vous rejoindrez les équipes de nos clients grands comptes dans un environnement CIB, en lien étroit avec les équipes Front Office, Middle Office, Risk et IT, pour : Recueillir, analyser et formaliser les besoins des utilisateurs métiers Rédiger les expressions de besoins, spécifications fonctionnelles et User Stories Participer à l’évol",
+  "initial": false
+ },
+ {
+  "id": "4b46d43152caeb0a",
+  "ids": [
+   "4b46d43152caeb0a"
+  ],
+  "fuzzy": "finance analyst|monzo|london",
+  "title": "Finance Analyst",
+  "company": "Monzo",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5940259465?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-24T09:54:43Z",
+  "first_seen": "2026-10-24T08:58:41Z",
+  "last_seen": "2026-10-24T08:58:41Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5940259465?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "45 500 – 57 500 £",
+  "snippet": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint accounts , accounts for 16-17 year olds , a free kids account and credit cards in the UK, with more",
+  "initial": false
+ },
+ {
+  "id": "e22ee05b1a3b6934",
+  "ids": [
+   "e22ee05b1a3b6934"
+  ],
+  "fuzzy": "middle office analyst|alliancebernstein lp|london",
+  "title": "Middle Office Analyst",
+  "company": "AllianceBernstein LP",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5940246694?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-24T09:49:24Z",
+  "first_seen": "2026-10-24T08:58:41Z",
+  "last_seen": "2026-10-24T08:58:41Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5940246694?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Banque"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "40 250 – 40 250 £",
+  "snippet": "Company Description As a leading global investment management firm, AB fosters diverse perspectives and embraces innovation to help our clients navigate the uncertainty of capital markets. Through high-quality research and diversified investment services, we serve institutions, individuals, and private wealth clients in major markets worldwide. Our ambition is simple: to be our clients’ most value",
+  "initial": false
+ },
+ {
+  "id": "8fc6078f9300effe",
+  "ids": [
+   "8fc6078f9300effe"
+  ],
+  "fuzzy": "graduate compliance analyst know your customer kyc|projectivegroup|london",
+  "title": "Graduate Compliance Analyst (Know Your Customer) KYC",
+  "company": "ProjectiveGroup",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5940251061?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-24T09:52:11Z",
+  "first_seen": "2026-10-24T08:58:41Z",
+  "last_seen": "2026-10-24T08:58:41Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5940251061?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Banque"
+  ],
+  "score": 5,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "31 000 – 31 000 £",
+  "snippet": "Description Graduate Compliance Analyst (Know Your Customer) KYC | Projective Group London, (Hybrid) | £31k These positions are based in our London office. We welcome applicants who are located in London or the surrounding home counties. Are you a recent graduate looking to jumpstart your career in consultancy? Join the dynamic team at Projective Group and explore exciting opportunities as a Gradu",
+  "initial": false
+ },
+ {
+  "id": "64e5ace1f9e0dd5d",
+  "ids": [
+   "64e5ace1f9e0dd5d"
+  ],
+  "fuzzy": "capital markets analyst|colliers international emea|london",
+  "title": "Capital Markets Analyst",
+  "company": "Colliers International EMEA",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5940072528?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-24T06:08:22Z",
+  "first_seen": "2026-10-24T08:58:41Z",
+  "last_seen": "2026-10-24T08:58:41Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5940072528?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "67 284 – 67 284 £",
+  "snippet": "Job Description About the Role The London Capital Markets team is looking for two highly motivated, creative, and analytical individuals to join us in a newly envisioned support capacity. While this sits at a surveyor level, we are not necessarily looking for a traditional surveyor. Instead, we want forward-thinking professionals who are eager to challenge the status quo and elevate our outputs. I",
+  "initial": false
+ },
+ {
   "id": "804f36d9f9dd3f06",
   "ids": [
    "804f36d9f9dd3f06"
@@ -11,7 +462,7 @@
   "url": "https://www.adzuna.fr/details/5939420111?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-23T17:49:53Z",
   "first_seen": "2026-10-23T19:22:29Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -41,7 +492,7 @@
   "url": "https://www.adzuna.fr/details/5939179350?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-23T13:25:16Z",
   "first_seen": "2026-10-23T19:22:29Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -71,7 +522,7 @@
   "url": "https://www.adzuna.fr/details/5939153186?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-23T13:19:32Z",
   "first_seen": "2026-10-23T19:22:29Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -101,7 +552,7 @@
   "url": "https://www.adzuna.fr/details/5937393027?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T06:06:12Z",
   "first_seen": "2026-10-23T19:22:29Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -251,7 +702,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5939391014?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-23T16:32:31Z",
   "first_seen": "2026-10-23T19:22:29Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -281,7 +732,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5939057822?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-23T10:24:34Z",
   "first_seen": "2026-10-23T19:22:29Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -311,7 +762,7 @@
   "url": "https://www.adzuna.com/details/5939068269?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-23T05:54:20Z",
   "first_seen": "2026-10-23T19:22:29Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -341,7 +792,7 @@
   "url": "https://www.adzuna.com/details/5939326371?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-23T10:00:16Z",
   "first_seen": "2026-10-23T19:22:29Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -371,7 +822,7 @@
   "url": "https://www.adzuna.com/details/5939225435?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-23T07:38:44Z",
   "first_seen": "2026-10-23T19:22:29Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -401,7 +852,7 @@
   "url": "https://www.adzuna.com/details/5939077320?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-23T06:11:22Z",
   "first_seen": "2026-10-23T19:22:29Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -422,7 +873,8 @@
  {
   "id": "cc0a0c002246b701",
   "ids": [
-   "cc0a0c002246b701"
+   "cc0a0c002246b701",
+   "79af39ac1cf54939"
   ],
   "fuzzy": "junior trader wertpapierhandler im market making w m d|baader bank ag|frankfurt",
   "title": "Junior Trader / Wertpapierhändler im Market Making (w/m/d)",
@@ -431,7 +883,7 @@
   "url": "https://www.adzuna.de/details/5939597682?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-23T20:15:13Z",
   "first_seen": "2026-10-23T19:22:29Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -461,7 +913,7 @@
   "url": "https://www.adzuna.sg/details/5939533957?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-24T00:51:47Z",
   "first_seen": "2026-10-23T19:22:29Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -491,7 +943,7 @@
   "url": "https://www.adzuna.com/details/5938844855?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-23T00:52:41Z",
   "first_seen": "2026-10-23T09:27:43Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -521,7 +973,7 @@
   "url": "https://www.adzuna.com/details/5938834194?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-23T00:21:11Z",
   "first_seen": "2026-10-23T09:27:43Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -581,7 +1033,7 @@
   "url": "https://www.adzuna.de/details/5937464927?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T07:38:42Z",
   "first_seen": "2026-10-23T09:27:43Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -611,7 +1063,7 @@
   "url": "https://www.adzuna.sg/details/5937608043?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:38:19Z",
   "first_seen": "2026-10-23T09:27:43Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -641,7 +1093,7 @@
   "url": "https://www.adzuna.sg/details/5937599315?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:36:25Z",
   "first_seen": "2026-10-23T09:27:43Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -671,7 +1123,7 @@
   "url": "https://www.adzuna.sg/details/5937633774?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:49:35Z",
   "first_seen": "2026-10-23T09:27:43Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -701,7 +1153,7 @@
   "url": "https://www.adzuna.sg/details/5937620298?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:44:00Z",
   "first_seen": "2026-10-23T09:27:43Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -731,7 +1183,7 @@
   "url": "https://www.adzuna.sg/details/5937606873?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:38:04Z",
   "first_seen": "2026-10-23T09:27:43Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -761,7 +1213,7 @@
   "url": "https://www.adzuna.sg/details/5937604137?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:37:36Z",
   "first_seen": "2026-10-23T09:27:43Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -791,7 +1243,7 @@
   "url": "https://www.adzuna.sg/details/5937601434?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:36:56Z",
   "first_seen": "2026-10-23T09:27:43Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -821,7 +1273,7 @@
   "url": "https://www.adzuna.sg/details/5937619004?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:43:36Z",
   "first_seen": "2026-10-23T09:27:43Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -851,7 +1303,7 @@
   "url": "https://www.adzuna.sg/details/5937602018?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:37:07Z",
   "first_seen": "2026-10-23T09:27:43Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -881,7 +1333,7 @@
   "url": "https://www.adzuna.sg/details/5937603006?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:37:24Z",
   "first_seen": "2026-10-23T09:27:43Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -911,7 +1363,7 @@
   "url": "https://www.adzuna.sg/details/5937605997?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:37:54Z",
   "first_seen": "2026-10-23T09:27:43Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -941,7 +1393,7 @@
   "url": "https://www.adzuna.sg/details/5937633749?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:49:35Z",
   "first_seen": "2026-10-23T09:27:43Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -971,7 +1423,7 @@
   "url": "https://www.adzuna.sg/details/5937627629?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:46:38Z",
   "first_seen": "2026-10-23T09:27:43Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1001,7 +1453,7 @@
   "url": "https://www.adzuna.sg/details/5937624091?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:45:18Z",
   "first_seen": "2026-10-23T09:27:43Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1031,7 +1483,7 @@
   "url": "https://www.adzuna.sg/details/5937617770?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:43:15Z",
   "first_seen": "2026-10-23T09:27:43Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1061,7 +1513,7 @@
   "url": "https://www.adzuna.sg/details/5937597705?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:36:06Z",
   "first_seen": "2026-10-23T09:27:43Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1091,7 +1543,7 @@
   "url": "https://www.adzuna.sg/details/5937618130?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:43:21Z",
   "first_seen": "2026-10-23T09:27:43Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1121,7 +1573,7 @@
   "url": "https://www.adzuna.fr/details/5938543504?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-23T03:34:16Z",
   "first_seen": "2026-10-23T09:27:42Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1151,7 +1603,7 @@
   "url": "https://www.adzuna.fr/land/ad/5938403245?se=0gLd5cPO8RGBmZXVTlFBRg&utm_medium=api&utm_source=d0504545&v=5073204BF5C6033AA3AC3B36B8B42276BFDAB558",
   "published": "2026-10-23T01:52:39Z",
   "first_seen": "2026-10-23T09:27:42Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1181,7 +1633,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5938852818?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-23T06:09:20Z",
   "first_seen": "2026-10-23T09:27:42Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1211,7 +1663,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5938310346?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T21:31:27Z",
   "first_seen": "2026-10-23T09:27:42Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1241,7 +1693,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5939031767?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-23T09:52:57Z",
   "first_seen": "2026-10-23T09:27:42Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1271,7 +1723,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5939014910?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-23T09:42:40Z",
   "first_seen": "2026-10-23T09:27:42Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1301,7 +1753,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5939006301?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-23T09:38:50Z",
   "first_seen": "2026-10-23T09:27:42Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1331,7 +1783,7 @@
   "url": "https://www.adzuna.co.uk/jobs/land/ad/5939005769?se=7MmJ6cPO8RGBmZXVTlFBRg&utm_medium=api&utm_source=d0504545&v=26FE956A1BAAA5BCAF51596123EB83FEFF284AAE",
   "published": "2026-10-23T09:38:15Z",
   "first_seen": "2026-10-23T09:27:42Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1361,7 +1813,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5938852664?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-23T06:09:19Z",
   "first_seen": "2026-10-23T09:27:42Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1391,7 +1843,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5937604528?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T09:37:40Z",
   "first_seen": "2026-10-23T09:27:42Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1421,7 +1873,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5938371653?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T23:27:23Z",
   "first_seen": "2026-10-22T23:28:55Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1451,7 +1903,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5938310347?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T21:31:27Z",
   "first_seen": "2026-10-22T23:28:55Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1481,7 +1933,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5938357718?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T22:22:38Z",
   "first_seen": "2026-10-22T23:28:55Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1511,7 +1963,7 @@
   "url": "https://www.adzuna.co.uk/jobs/land/ad/5938114283?se=0jOaS3DO8RGhQ_c1wW8kdg&utm_medium=api&utm_source=d0504545&v=2AB5D650B5A94D785564E3C51F851035F01BE633",
   "published": "2026-10-22T16:39:39Z",
   "first_seen": "2026-10-22T23:28:55Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1662,7 +2114,7 @@
   "url": "https://www.adzuna.com/details/5937713824?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T06:05:50Z",
   "first_seen": "2026-10-22T15:25:33Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1722,7 +2174,7 @@
   "url": "https://www.adzuna.fr/details/5937464159?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T07:37:24Z",
   "first_seen": "2026-10-22T09:31:39Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1842,7 +2294,7 @@
   "url": "https://www.adzuna.fr/details/5937235328?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T03:34:13Z",
   "first_seen": "2026-10-22T09:31:39Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1872,7 +2324,7 @@
   "url": "https://www.adzuna.fr/details/5937234239?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T03:33:54Z",
   "first_seen": "2026-10-22T09:31:39Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1902,7 +2354,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5937656484?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T10:04:07Z",
   "first_seen": "2026-10-22T09:31:39Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2022,7 +2474,7 @@
   "url": "https://www.adzuna.com/details/5937565267?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T03:19:44Z",
   "first_seen": "2026-10-22T09:31:39Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2052,7 +2504,7 @@
   "url": "https://www.adzuna.sg/details/5937635472?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:49:50Z",
   "first_seen": "2026-10-22T09:31:39Z",
-  "last_seen": "2026-10-22T09:31:39Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2113,7 +2565,7 @@
   "url": "https://www.adzuna.sg/details/5937617283?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:43:09Z",
   "first_seen": "2026-10-22T09:31:39Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2143,7 +2595,7 @@
   "url": "https://www.adzuna.sg/details/5937611001?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:39:00Z",
   "first_seen": "2026-10-22T09:31:39Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2203,7 +2655,7 @@
   "url": "https://www.adzuna.sg/details/5937625790?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:45:46Z",
   "first_seen": "2026-10-22T09:31:39Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2233,7 +2685,7 @@
   "url": "https://www.adzuna.sg/details/5937617305?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:43:09Z",
   "first_seen": "2026-10-22T09:31:39Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2263,7 +2715,7 @@
   "url": "https://www.adzuna.sg/details/5937624414?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:45:23Z",
   "first_seen": "2026-10-22T09:31:39Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2293,7 +2745,7 @@
   "url": "https://www.adzuna.sg/details/5937633369?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:49:32Z",
   "first_seen": "2026-10-22T09:31:39Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2323,7 +2775,7 @@
   "url": "https://www.adzuna.sg/details/5937624958?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:45:32Z",
   "first_seen": "2026-10-22T09:31:39Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2353,7 +2805,7 @@
   "url": "https://www.adzuna.sg/details/5937596568?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:35:53Z",
   "first_seen": "2026-10-22T09:31:39Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2383,7 +2835,7 @@
   "url": "https://www.adzuna.sg/details/5937618615?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:43:29Z",
   "first_seen": "2026-10-22T09:31:39Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2413,7 +2865,7 @@
   "url": "https://www.adzuna.sg/details/5937634306?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:49:39Z",
   "first_seen": "2026-10-22T09:31:39Z",
-  "last_seen": "2026-10-22T09:31:39Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2443,7 +2895,7 @@
   "url": "https://www.adzuna.sg/details/5937622347?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:44:48Z",
   "first_seen": "2026-10-22T09:31:39Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2473,7 +2925,7 @@
   "url": "https://www.adzuna.sg/details/5937608993?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:38:33Z",
   "first_seen": "2026-10-22T09:31:39Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2503,7 +2955,7 @@
   "url": "https://www.adzuna.sg/details/5937597103?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T16:35:58Z",
   "first_seen": "2026-10-22T09:31:39Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2563,7 +3015,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5937066695?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-21T23:55:12Z",
   "first_seen": "2026-10-21T23:29:20Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2623,7 +3075,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5936965509?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-21T19:34:16Z",
   "first_seen": "2026-10-21T23:29:20Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2653,7 +3105,7 @@
   "url": "https://www.adzuna.co.uk/jobs/land/ad/5936931053?se=XrkNMafN8RGB8pCzaQZ2NQ&utm_medium=api&utm_source=d0504545&v=E8DAF35FDEAE7581245C6E7E305EB5FFA2BFF3A0",
   "published": "2026-10-21T18:31:29Z",
   "first_seen": "2026-10-21T23:29:20Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2684,7 +3136,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5936970106?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-21T19:46:27Z",
   "first_seen": "2026-10-21T23:29:20Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2714,7 +3166,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5936756644?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-21T15:16:26Z",
   "first_seen": "2026-10-21T15:26:08Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2774,7 +3226,7 @@
   "url": "https://www.adzuna.fr/details/5936409007?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-21T09:43:56Z",
   "first_seen": "2026-10-21T09:28:41Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2804,7 +3256,7 @@
   "url": "https://www.adzuna.fr/details/5936408921?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-21T09:43:56Z",
   "first_seen": "2026-10-21T09:28:41Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2925,7 +3377,7 @@
   "url": "https://www.adzuna.fr/details/5936085111?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-21T04:38:09Z",
   "first_seen": "2026-10-21T09:28:41Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2955,7 +3407,7 @@
   "url": "https://www.adzuna.co.uk/jobs/land/ad/5936500738?se=OLM1vzHN8RGeF-Sw_vHIlg&utm_medium=api&utm_source=d0504545&v=67CD948139B7E5800A4491507F297256FCBC446D",
   "published": "2026-10-21T09:55:48Z",
   "first_seen": "2026-10-21T09:28:41Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2985,7 +3437,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5936489757?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-21T09:42:17Z",
   "first_seen": "2026-10-21T09:28:41Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -3045,7 +3497,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5936500324?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-21T09:55:21Z",
   "first_seen": "2026-10-21T09:28:41Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -3075,7 +3527,7 @@
   "url": "https://www.adzuna.co.uk/jobs/land/ad/5936477524?se=con8vzHN8RGgaNNqWVqVbg&utm_medium=api&utm_source=d0504545&v=FDE65FF19F90035A3FCBD17CA6FF0974F7F6C11B",
   "published": "2026-10-21T09:37:35Z",
   "first_seen": "2026-10-21T09:28:41Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -3105,7 +3557,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5936475505?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-21T09:36:52Z",
   "first_seen": "2026-10-21T09:28:41Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -3285,7 +3737,7 @@
   "url": "https://www.adzuna.de/details/5936065674?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-21T04:28:19Z",
   "first_seen": "2026-10-21T09:28:41Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -3315,7 +3767,7 @@
   "url": "https://www.adzuna.de/details/5936199127?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-21T05:40:35Z",
   "first_seen": "2026-10-21T09:28:41Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:42Z",
   "sources": [
    {
     "source": "adzuna",
@@ -3678,7 +4130,7 @@
   "url": "https://www.adzuna.co.uk/jobs/land/ad/5933984009?se=nvvhp6TL8RG24sFXRjB2eg&utm_medium=api&utm_source=d0504545&v=8703DE83A5B1B56837C6DCBB2BC3D3CC0CB2E87A",
   "published": "2026-10-19T07:12:54Z",
   "first_seen": "2026-10-19T10:06:17Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -6622,7 +7074,8 @@
  {
   "id": "db45bf96dfcbaa76",
   "ids": [
-   "db45bf96dfcbaa76"
+   "db45bf96dfcbaa76",
+   "6f7931ed32ce0461"
   ],
   "fuzzy": "portfolio monitoring analyst private equity|bureau des talents|paris",
   "title": "Portfolio monitoring analyst private equity",
@@ -6631,7 +7084,7 @@
   "url": "https://www.adzuna.fr/details/5927048449?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-14T09:47:26Z",
   "first_seen": "2026-10-15T14:42:56Z",
-  "last_seen": "2026-10-17T22:29:23Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -7475,7 +7928,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5924287976?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-12T15:53:31Z",
   "first_seen": "2026-10-15T14:42:56Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -7841,7 +8294,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5926132801?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-13T19:21:14Z",
   "first_seen": "2026-10-15T14:42:56Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
@@ -7872,7 +8325,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5926132308?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-13T19:21:00Z",
   "first_seen": "2026-10-15T14:42:56Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-10-24T08:58:41Z",
   "sources": [
    {
     "source": "adzuna",
