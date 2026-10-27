@@ -1,5 +1,485 @@
 [
  {
+  "id": "1d5ed56b5424cc08",
+  "ids": [
+   "1d5ed56b5424cc08"
+  ],
+  "fuzzy": "vo2 finance analyste financier quant p l h f|vo2|paris",
+  "title": "Vo2 Finance - Analyste Financier & Quant - P&L H/F",
+  "company": "Vo2-Group",
+  "location": "Paris, Ile-de-France",
+  "url": "https://www.adzuna.fr/land/ad/5943013794?se=_NBvf-zR8RGTmpORxmRtzw&utm_medium=api&utm_source=d0504545&v=9B37F50F5DF9753F5AE562BAD6BB36E4DA6CDF0E",
+  "published": "2026-10-27T03:52:28Z",
+  "first_seen": "2026-10-27T09:55:32Z",
+  "last_seen": "2026-10-27T09:55:32Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.fr/land/ad/5943013794?se=_NBvf-zR8RGTmpORxmRtzw&utm_medium=api&utm_source=d0504545&v=9B37F50F5DF9753F5AE562BAD6BB36E4DA6CDF0E"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "3 000 – 3 000 €",
+  "snippet": "Reconnaissances & LeadershipLeader en innovation et croissance 2025 (Les Echos Business Magazine)Acteur multi-tech et partenaire Premium Salesforce Champion d'une \"Tech Responsable et Durable\"Créé avec la parité hommes-femmes, défendant l'égalité grâce à une équipe de direction engagée 45 % de femmes au sein de nos équipesCampagne primée TopCom en 2024 Certifications et PrixSalesforce Impact Partn",
+  "initial": false
+ },
+ {
+  "id": "199ff38b9015ec11",
+  "ids": [
+   "199ff38b9015ec11"
+  ],
+  "fuzzy": "analyste financier secteur sante|fed finance|1er",
+  "title": "Analyste financier secteur santé",
+  "company": "Fed Finance",
+  "location": "1er Arrondissement, Paris",
+  "url": "https://www.adzuna.fr/details/5942895672?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-27T02:35:14Z",
+  "first_seen": "2026-10-27T09:55:32Z",
+  "last_seen": "2026-10-27T09:55:32Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.fr/details/5942895672?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "contract",
+  "salary": "40 000 – 45 000 €",
+  "snippet": "Fed Finance cabinet de recrutement spécialisé recherche pour une banque française de renom un : Analyste financier secteur santé H/F Rattaché au Responsable de l'équipe, vous gérez un portefeuille de projets Santé bénéficiant d'un financement. A ce titre vos principales missions seront les suivantes : - Analyse du projet : les résultats obtenus par rapport aux objectifs, les dépenses présentées, l",
+  "initial": false
+ },
+ {
+  "id": "740ff25dca75ab50",
+  "ids": [
+   "740ff25dca75ab50"
+  ],
+  "fuzzy": "analyste financier secteur sante|fed|1er",
+  "title": "Analyste financier secteur santé",
+  "company": "Fed Group",
+  "location": "1er Arrondissement, Paris",
+  "url": "https://www.adzuna.fr/details/5942889066?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-27T02:23:10Z",
+  "first_seen": "2026-10-27T09:55:32Z",
+  "last_seen": "2026-10-27T09:55:32Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.fr/details/5942889066?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "contract",
+  "salary": "40 000 – 45 000 €",
+  "snippet": "Rattaché au Responsable de l'équipe, vous gérez un portefeuille de projets Santé bénéficiant d'un financement. A ce titre vos principales missions seront les suivantes : - Analyse du projet : les résultats obtenus par rapport aux objectifs, les dépenses présentées, la proposition de paiement, l' analyse financière et le suivi juridique ; - Analyse des modifications du projet ; - Présentation devan",
+  "initial": false
+ },
+ {
+  "id": "1e99e6e0b0d3db43",
+  "ids": [
+   "1e99e6e0b0d3db43"
+  ],
+  "fuzzy": null,
+  "title": "Middle Office Valorisations (F/H)",
+  "company": "",
+  "location": "Paris, Ile-de-France",
+  "url": "https://www.adzuna.fr/details/5943158004?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-27T06:39:48Z",
+  "first_seen": "2026-10-27T09:55:32Z",
+  "last_seen": "2026-10-27T09:55:32Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.fr/details/5943158004?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Banque"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "40 000 – 42 000 €",
+  "snippet": "Le poste de Gestionnaire Middle Office Valorisation H/F consiste à garantir la qualité des valorisations, le suivi de la trésorerie et la fiabilité des processus opérationnels. Au sein des Services financiers, ce rôle contribue à la sécurisation des opérations et au bon fonctionnement des activités de gestion. Garantir la conformité, la cohérence et la pertinence des valorisations des portefeuille",
+  "initial": false
+ },
+ {
+  "id": "2438beedbe313c9c",
+  "ids": [
+   "2438beedbe313c9c"
+  ],
+  "fuzzy": "consultant middle office sante h f|diot siaci|paris",
+  "title": "Consultant Middle Office Santé H/F",
+  "company": "DIOT-SIACI",
+  "location": "Paris, Ile-de-France",
+  "url": "https://www.adzuna.fr/details/5943009518?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-27T03:50:29Z",
+  "first_seen": "2026-10-27T09:55:32Z",
+  "last_seen": "2026-10-27T09:55:32Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.fr/details/5943009518?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Banque"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "60 000 – 70 000 €",
+  "snippet": "Diot-Siaci est un leader européen du conseil et du courtage en assurance et réassurance en France comme à l'international, avec plus de 8000 collaborateurs et un chiffre d'affaires de plus d'un milliard d'euros (2024). Notre Groupe propose des solutions sur mesure pour ses clients en assurances de personnes, de biens, de responsabilités et de conseil RH. Notre Direction Service Client Enreprises, ",
+  "initial": false
+ },
+ {
+  "id": "4c30052366009087",
+  "ids": [
+   "4c30052366009087"
+  ],
+  "fuzzy": "gestionnaire middle office service successions h f|bred banque populaire|paris",
+  "title": "Gestionnaire Middle Office - Service Successions H/F",
+  "company": "BRED Banque Populaire",
+  "location": "Paris, Ile-de-France",
+  "url": "https://www.adzuna.fr/details/5943009431?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-27T03:50:28Z",
+  "first_seen": "2026-10-27T09:55:32Z",
+  "last_seen": "2026-10-27T09:55:32Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.fr/details/5943009431?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Banque"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "",
+  "snippet": "Description de l'entreprise Et si vous mettiez votre talent au service d'une banque coopérative ? Rejoignez BRED Banque Populaire ! Banque de proximité, BRED banque populaire agit au coeur de ses territoires : Île-de-France, Normandie, Outre-Mer et à l'international, en accompagnant durablement 1,6 million de clients sociétaires. En nous rejoignant, vous intégrez une entreprise du groupe BPCE qui ",
+  "initial": false
+ },
+ {
+  "id": "098e8400efdf524d",
+  "ids": [
+   "098e8400efdf524d"
+  ],
+  "fuzzy": "charge d affaires middle office agency financements specialises h f|arkea banque entreprises et institutionnels|paris",
+  "title": "Chargé d'Affaires Middle Office Agency Financements Spécialisés H/F",
+  "company": "Arkea Banque Entreprises et Institutionnels",
+  "location": "Paris, Ile-de-France",
+  "url": "https://www.adzuna.fr/details/5943009500?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-27T03:50:28Z",
+  "first_seen": "2026-10-27T09:55:32Z",
+  "last_seen": "2026-10-27T09:55:32Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.fr/details/5943009500?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Banque"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "",
+  "snippet": "Dans le cadre d'un remplacement, l'équipe Middle Office du Département des Financements Spécialisés, recherche un Gestionnaire \"Agency MO FS\". Poste à pourvoir en CDI au sein du Centre d'Affaires de Paris. En tant que Gestionnaire du Middle Office, vos missions principales sont : - Participer en soutien au front office des financements spécialisés à l'élaboration et à la négociation des \"terms she",
+  "initial": false
+ },
+ {
+  "id": "db4e900ebb73a6b4",
+  "ids": [
+   "db4e900ebb73a6b4"
+  ],
+  "fuzzy": "controleur financier private equity|fed|paris",
+  "title": "Contrôleur Financier - Private Equity",
+  "company": "Fed Group",
+  "location": "Paris, Ile-de-France",
+  "url": "https://www.adzuna.fr/details/5942975687?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-27T03:18:50Z",
+  "first_seen": "2026-10-27T09:55:32Z",
+  "last_seen": "2026-10-27T09:55:32Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.fr/details/5942975687?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "permanent",
+  "salary": "50 000 – 55 000 €",
+  "snippet": "Antony Laplagne, consultant chez Fed Finance, spécialisé dans le recrutement des métiers de la Finance de marché, de l'Asset Management et du Private Equity. Je recherche pour l'un de mes clients, un Contrôleur Financier en Private Equity. Vous souhaitez rejoindre un environnement entrepreneurial, exigeant et en transformation, au sein d'une structure qui place la digitalisation et l'optimisation ",
+  "initial": false
+ },
+ {
+  "id": "3181059c109b499d",
+  "ids": [
+   "3181059c109b499d"
+  ],
+  "fuzzy": "controleur financier private equity|fed finance|1er",
+  "title": "Contrôleur Financier - Private Equity",
+  "company": "Fed Finance",
+  "location": "1er Arrondissement, Paris",
+  "url": "https://www.adzuna.fr/details/5942895608?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-27T02:35:14Z",
+  "first_seen": "2026-10-27T09:55:32Z",
+  "last_seen": "2026-10-27T09:55:32Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.fr/details/5942895608?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "permanent",
+  "salary": "50 000 – 55 000 €",
+  "snippet": "Je recherche pour l'un de mes clients, un Contrôleur Financier en Private Equity. Vous souhaitez rejoindre un environnement entrepreneurial, exigeant et en transformation, au sein d'une structure qui place la digitalisation et l'optimisation des processus au cœur de son développement ? Ce poste offre l'opportunité de jouer un rôle central dans la structuration et l'évolution de la fonction Operati",
+  "initial": false
+ },
+ {
+  "id": "4ea527ce6edeb874",
+  "ids": [
+   "4ea527ce6edeb874"
+  ],
+  "fuzzy": "gestionnaire middle office h f|adsearch|paris",
+  "title": "Gestionnaire middle office (H/F)",
+  "company": "ADSEARCH",
+  "location": "Paris, Ile-de-France",
+  "url": "https://www.adzuna.fr/land/ad/5942806629?se=_NBvf-zR8RGTmpORxmRtzw&utm_medium=api&utm_source=d0504545&v=B84A8FD28F4D4FB1EE06B1E6D32DBD903AB079B4",
+  "published": "2026-10-27T01:22:39Z",
+  "first_seen": "2026-10-27T09:55:32Z",
+  "last_seen": "2026-10-27T09:55:32Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.fr/land/ad/5942806629?se=_NBvf-zR8RGTmpORxmRtzw&utm_medium=api&utm_source=d0504545&v=B84A8FD28F4D4FB1EE06B1E6D32DBD903AB079B4"
+   }
+  ],
+  "profiles": [
+   "Banque"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "permanent",
+  "salary": "",
+  "snippet": "En bref : Gestionnaire middle-office H/F - CDI - Paris 8ème - 50 à 55 K€ selon profil - KYC, Banque, administratif. La division banque de notre bureau Paris recherche pour son client, une banque internationale, un gestionnaire middle office (H/F). VOS MISSIONS : Vous serez en charge des missions suivantes : * Pilotage opérationnel : Contrôles quotidiens, gestion des incidents et optimisation des p",
+  "initial": false
+ },
+ {
+  "id": "46e7e6c60a6c0cb9",
+  "ids": [
+   "46e7e6c60a6c0cb9"
+  ],
+  "fuzzy": "gestionnaire middle office h f|adsearch|8eme",
+  "title": "Gestionnaire middle office (H/F)",
+  "company": "Adsearch",
+  "location": "8ème Arrondissement, Paris",
+  "url": "https://www.adzuna.fr/details/5942676365?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-26T19:39:14Z",
+  "first_seen": "2026-10-27T09:55:32Z",
+  "last_seen": "2026-10-27T09:55:32Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.fr/details/5942676365?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Banque"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "permanent",
+  "salary": "50 000 – 60 000 €",
+  "snippet": "Description du poste En bref : Gestionnaire middle-office H/F – CDI – Paris 8ème – 50 à 55 K€ selon profil – KYC, Banque, administratif. La division banque de notre bureau Paris recherche pour son client, une banque internationale, un gestionnaire middle office (H/F). VOS MISSIONS : Vous serez en charge des missions suivantes : Pilotage opérationnel : Contrôles quotidiens, gestion des incidents et",
+  "initial": false
+ },
+ {
+  "id": "517339f47403711d",
+  "ids": [
+   "517339f47403711d"
+  ],
+  "fuzzy": "royalties financial analyst sports media entertainment|handle recruitment|london",
+  "title": "Royalties Financial Analyst - Sports, Media & Entertainment",
+  "company": "Handle Recruitment",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5942382750?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-26T17:33:03Z",
+  "first_seen": "2026-10-27T09:55:32Z",
+  "last_seen": "2026-10-27T09:55:32Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5942382750?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "permanent",
+  "salary": "38 000 – 44 000 £",
+  "snippet": "Royalties Financial Analyst - Sports, Media & Entertainment We are working with a leading international business that is looking for a Royalties Financial Analyst to join its growing Finance team. This is a fantastic opportunity for someone with experience in royalties, licensing, accounting, or commercial finance who wants to develop their career in a fast-paced, international environment. You wi",
+  "initial": false
+ },
+ {
+  "id": "2b293bd8957c9493",
+  "ids": [
+   "2b293bd8957c9493"
+  ],
+  "fuzzy": "junior broker|viticult|bromley",
+  "title": "Junior Broker",
+  "company": "Viticult Ltd",
+  "location": "Bromley, South East London",
+  "url": "https://www.adzuna.co.uk/jobs/details/5942775588?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-26T22:35:47Z",
+  "first_seen": "2026-10-27T09:55:32Z",
+  "last_seen": "2026-10-27T09:55:32Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5942775588?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "30 000 – 30 000 £",
+  "snippet": "Junior Broker Whisky Investment Location: Bromley BR1 Full Training Provided | Career Development | Sales & Investment Broking Are you ambitious, driven and ready to build a career in investment broking? Want to be part of the whisky investment journey, develop high-value sales skills and turn your potential into a successful career? Your next opportunity starts here. Are You Ready for the Challen",
+  "initial": false
+ },
+ {
+  "id": "12b0cec0c5f99ff0",
+  "ids": [
+   "12b0cec0c5f99ff0"
+  ],
+  "fuzzy": "international facultative reinsurance broker part time|insure recruitment|london",
+  "title": "International Facultative Reinsurance Broker (Part Time)",
+  "company": "Insure Recruitment",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5942767924?utm_medium=api&utm_source=d0504545",
+  "published": "2026-10-26T21:42:14Z",
+  "first_seen": "2026-10-27T09:55:32Z",
+  "last_seen": "2026-10-27T09:55:32Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5942767924?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "30 000 – 34 000 £",
+  "snippet": "Genuinely part-time roles in international broking are rare. This one lets you keep placing business, negotiating with underwriters and working with overseas clients, three days a week, with two days back for whatever matters most to you. Insure Recruitment is partnering with a long-established, independent Lloyd’s insurance and reinsurance broker to appoint an International Facultative Reinsuranc",
+  "initial": false
+ },
+ {
+  "id": "40d3ce31b6b805c6",
+  "ids": [
+   "40d3ce31b6b805c6"
+  ],
+  "fuzzy": "independent wine rep broker sustainable turkish|selendi wines|new",
+  "title": "Independent Wine Rep / Broker -Sustainable Turkish",
+  "company": "Selendi Wines",
+  "location": "New York City, New York",
+  "url": "https://www.adzuna.com/land/ad/5942671460?se=GC2nhOzR8RGaLvZ41xPXIA&utm_medium=api&utm_source=d0504545&v=3DA1F4F4297DB5D31BDB23AF9C3E4E5330424C0C",
+  "published": "2026-10-26T14:25:37Z",
+  "first_seen": "2026-10-27T09:55:32Z",
+  "last_seen": "2026-10-27T09:55:32Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.com/land/ad/5942671460?se=GC2nhOzR8RGaLvZ41xPXIA&utm_medium=api&utm_source=d0504545&v=3DA1F4F4297DB5D31BDB23AF9C3E4E5330424C0C"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "92 727 – 92 727 $",
+  "snippet": "Job Description ABOUT US\\n \\nSelendi Wines is an established, certified sustainable boutique estate out of Akhisar, Turkey, crafting low-intervention, high-character food wines. We have verified market velocity in NYC, moving over 1,200 cases last cycle. Our inventory is fully operational and cleared via Park Street Imports, with stock actively staged in our local warehouse for immediate next-day ",
+  "initial": false
+ },
+ {
+  "id": "e0cd3a0c372f50a4",
+  "ids": [
+   "e0cd3a0c372f50a4"
+  ],
+  "fuzzy": "fixed income sales specialist efinancialcareers|efinancialcareers|singapore",
+  "title": "Fixed Income Sales Specialist - eFinancialCareers",
+  "company": "eFinancialCareers",
+  "location": "Singapore",
+  "url": "https://www.adzuna.sg/land/ad/5942144856?se=JltUjOzR8RGTmpORxmRtzw&utm_medium=api&utm_source=d0504545&v=9F57534969467AF84851C2E687EBC5B5E79C5556",
+  "published": "2026-10-26T19:21:24Z",
+  "first_seen": "2026-10-27T09:55:32Z",
+  "last_seen": "2026-10-27T09:55:32Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.sg/land/ad/5942144856?se=JltUjOzR8RGTmpORxmRtzw&utm_medium=api&utm_source=d0504545&v=9F57534969467AF84851C2E687EBC5B5E79C5556"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "",
+  "snippet": "SEA FI Sales – Southeast Asia We are seeking an experienced FI Sales professional to cover Southeast Asia for newly setup platform. The ideal candidate will have: A strong track record in Financial Institutions (FI) Sales, with coverage of Southeast Asia. Established relationships across the regional FI client base. Strong client relationship management and business development skills. The ability",
+  "initial": false
+ },
+ {
   "id": "38599a4c06c3e45e",
   "ids": [
    "38599a4c06c3e45e"
@@ -101,7 +581,7 @@
   "url": "https://www.adzuna.fr/details/5941899929?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-26T03:18:31Z",
   "first_seen": "2026-10-26T10:20:16Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -191,7 +671,7 @@
   "url": "https://www.adzuna.fr/details/5941102821?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-25T05:23:58Z",
   "first_seen": "2026-10-26T10:20:16Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -221,7 +701,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5941828902?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-26T01:37:34Z",
   "first_seen": "2026-10-26T10:20:16Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -311,7 +791,7 @@
   "url": "https://www.adzuna.sg/details/5942084068?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-26T16:37:17Z",
   "first_seen": "2026-10-26T10:20:16Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -341,7 +821,7 @@
   "url": "https://www.adzuna.sg/details/5941240636?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-25T16:22:55Z",
   "first_seen": "2026-10-26T10:20:16Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -371,7 +851,7 @@
   "url": "https://www.adzuna.sg/details/5942086314?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-26T16:39:23Z",
   "first_seen": "2026-10-26T10:20:16Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -401,7 +881,7 @@
   "url": "https://www.adzuna.sg/details/5942084250?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-26T16:37:22Z",
   "first_seen": "2026-10-26T10:20:16Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -431,7 +911,7 @@
   "url": "https://www.adzuna.com/details/5941491449?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-25T09:00:53Z",
   "first_seen": "2026-10-25T17:43:04Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -462,7 +942,7 @@
   "url": "https://www.adzuna.com/details/5941431088?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-25T07:39:44Z",
   "first_seen": "2026-10-25T17:43:04Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -492,7 +972,7 @@
   "url": "https://www.adzuna.com/land/ad/5941294820?se=ok3fe5vQ8RGrV9qPojDs1w&utm_medium=api&utm_source=d0504545&v=4B95D55B24D313D71F5BEBF11180B3A12418E180",
   "published": "2026-10-25T05:58:58Z",
   "first_seen": "2026-10-25T17:43:04Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -522,7 +1002,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5940855722?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-24T23:27:42Z",
   "first_seen": "2026-10-25T09:15:49Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -552,7 +1032,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5940948505?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-25T01:36:45Z",
   "first_seen": "2026-10-25T09:15:49Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -582,7 +1062,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5941250942?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-25T08:34:23Z",
   "first_seen": "2026-10-25T09:15:49Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -612,7 +1092,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5941246330?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-25T08:29:16Z",
   "first_seen": "2026-10-25T09:15:49Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -642,7 +1122,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5941245892?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-25T08:28:25Z",
   "first_seen": "2026-10-25T09:15:49Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -702,7 +1182,7 @@
   "url": "https://www.adzuna.sg/details/5941238552?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-25T16:19:16Z",
   "first_seen": "2026-10-25T09:15:49Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -732,7 +1212,7 @@
   "url": "https://www.adzuna.sg/details/5940227488?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-24T16:43:22Z",
   "first_seen": "2026-10-25T09:15:49Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -762,7 +1242,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5940484201?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-24T13:34:50Z",
   "first_seen": "2026-10-24T17:30:40Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -792,7 +1272,7 @@
   "url": "https://www.adzuna.co.uk/jobs/land/ad/5940275395?se=MBrAk9DP8RGySNRRcgTAnw&utm_medium=api&utm_source=d0504545&v=AAC5879FA855AEDDF5DBB787B417CAB44F8F43E1",
   "published": "2026-10-24T10:00:51Z",
   "first_seen": "2026-10-24T17:30:40Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -822,7 +1302,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5940275204?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-24T10:00:46Z",
   "first_seen": "2026-10-24T17:30:40Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -852,7 +1332,7 @@
   "url": "https://www.adzuna.com/details/5940262901?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-24T04:55:37Z",
   "first_seen": "2026-10-24T17:30:40Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -913,7 +1393,7 @@
   "url": "https://www.adzuna.sg/details/5940721369?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-25T00:53:26Z",
   "first_seen": "2026-10-24T17:30:40Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -943,7 +1423,7 @@
   "url": "https://www.adzuna.com/details/5940207565?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-24T04:23:02Z",
   "first_seen": "2026-10-24T08:58:42Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1034,7 +1514,7 @@
   "url": "https://www.adzuna.com/details/5940164319?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-24T02:46:25Z",
   "first_seen": "2026-10-24T08:58:42Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1064,7 +1544,7 @@
   "url": "https://www.adzuna.com/details/5940089478?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-24T01:35:21Z",
   "first_seen": "2026-10-24T08:58:42Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1274,7 +1754,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5940259465?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-24T09:54:43Z",
   "first_seen": "2026-10-24T08:58:41Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1304,7 +1784,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5940246694?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-24T09:49:24Z",
   "first_seen": "2026-10-24T08:58:41Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1334,7 +1814,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5940251061?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-24T09:52:11Z",
   "first_seen": "2026-10-24T08:58:41Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1815,7 +2295,7 @@
   "url": "https://www.adzuna.de/details/5939597682?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-23T20:15:13Z",
   "first_seen": "2026-10-23T19:22:29Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1845,7 +2325,7 @@
   "url": "https://www.adzuna.sg/details/5939533957?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-24T00:51:47Z",
   "first_seen": "2026-10-23T19:22:29Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -4883,7 +5363,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5934871666?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-20T03:11:19Z",
   "first_seen": "2026-10-20T09:32:28Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
@@ -7778,7 +8258,7 @@
   "url": "https://www.adzuna.fr/details/5929154784?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-15T17:37:04Z",
   "first_seen": "2026-10-15T22:31:33Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-10-27T09:55:32Z",
   "sources": [
    {
     "source": "adzuna",
