@@ -1587,5 +1587,33 @@
     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.apec.fr/cms/webservices/rechercheOffre"
    }
   ]
+ },
+ {
+  "at": "2026-10-29T10:58:49Z",
+  "sources": {
+   "francetravail": {
+    "status": "erreur",
+    "error": "SourceError: authentification refusée (400) : {\"error_description\":\"Client authentication failed\",\"error\":\"invalid_client\"}"
+   },
+   "apec": {
+    "status": "erreur",
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.apec.fr/cms/webservices/rechercheOffre"
+   },
+   "adzuna": {
+    "status": "ok",
+    "raw": 435,
+    "kept": 71,
+    "new": 22,
+    "merged": 1
+   }
+  },
+  "new": 22,
+  "merged": 1,
+  "initial": 0,
+  "purged": 0,
+  "warnings": [],
+  "duration_s": 24.5,
+  "notification_errors": [],
+  "events": []
  }
 ]
