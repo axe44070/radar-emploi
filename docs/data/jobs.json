@@ -1,5 +1,547 @@
 [
  {
+  "id": "23aa83156c365335",
+  "ids": [
+   "23aa83156c365335"
+  ],
+  "fuzzy": "regulatory operations analyst|fed|1er",
+  "title": "Regulatory Operations Analyst",
+  "company": "Fed Group",
+  "location": "1er Arrondissement, Paris",
+  "url": "https://www.adzuna.fr/details/5953619509?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-05T03:48:14Z",
+  "first_seen": "2026-11-05T12:35:22Z",
+  "last_seen": "2026-11-05T12:35:22Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.fr/details/5953619509?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Banque"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "contract",
+  "salary": "38 000 – 45 000 €",
+  "snippet": "Vous rejoignez l'équipe Investment Operations - Trade & Position composée de 4 personnes. Vos missions sont les suivantes : - Vous assurez les contrôles quotidiens liés au reporting réglementaire EMIR et SFTR (transactions, valorisations et collatéral) auprès du trade repository incluant l'analyse et le traitement des écarts et anomalies ; - Vous supervisez les processus de reporting délégués à de",
+  "initial": false
+ },
+ {
+  "id": "60090b286823c1e3",
+  "ids": [
+   "60090b286823c1e3"
+  ],
+  "fuzzy": "investment banking analyst m a|citigroup|london",
+  "title": "Investment Banking Analyst, M&A",
+  "company": "Citigroup",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5953645099?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-05T03:02:17Z",
+  "first_seen": "2026-11-05T12:35:22Z",
+  "last_seen": "2026-11-05T12:35:22Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5953645099?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance",
+   "Banque"
+  ],
+  "score": 5,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "46 570 – 46 570 £",
+  "snippet": "The Investment Banking Analyst is an intermediate level position responsible for assisting clients in raising funds in the capital markets, as well as in providing strategic advisory services for mergers, acquisitions and other types of financial transactions in coordination with the Institutional Banking team. The Investment Banking Analyst also serves as an intermediary in trading for clients. T",
+  "initial": false
+ },
+ {
+  "id": "e2ef238564bc0f03",
+  "ids": [
+   "e2ef238564bc0f03"
+  ],
+  "fuzzy": "fp a analyst|pilgrim s europe|uxbridge",
+  "title": "FP&A Analyst",
+  "company": "Pilgrim's Europe",
+  "location": "Uxbridge, London",
+  "url": "https://www.adzuna.co.uk/jobs/details/5953524325?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-05T00:58:14Z",
+  "first_seen": "2026-11-05T12:35:22Z",
+  "last_seen": "2026-11-05T12:35:22Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5953524325?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "58 748 – 58 748 £",
+  "snippet": "FP&A Analyst – Fixed Cost Management We’re looking for an analytical and commercially minded FP&A Analyst to join our Fixed Cost Management team, supporting the management of a £1bn cost base across 40 sites throughout the UK and Europe. What You’ll Do Support the delivery of our Fixed Cost Management and ZBB strategy Build and maintain reporting dashboards, benchmarking models and planning tools ",
+  "initial": false
+ },
+ {
+  "id": "bd81d75b55716603",
+  "ids": [
+   "bd81d75b55716603"
+  ],
+  "fuzzy": "product financial analyst|global payment company|london",
+  "title": "Product Financial Analyst",
+  "company": "Global Payment Holding Company",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5954025413?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-05T08:32:20Z",
+  "first_seen": "2026-11-05T12:35:22Z",
+  "last_seen": "2026-11-05T12:35:22Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5954025413?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "55 218 – 55 218 £",
+  "snippet": "Are you ready to write your next chapter? Make your mark at one of the biggest names in payments. We’re looking for a Financial Analyst to join our ever-evolving Product FP&A team and help us unleash the potential of every business. What you’ll do as the Financial Analyst You will support the Product Finance team with financial planning, product performance analysis, and investment appraisal. Work",
+  "initial": false
+ },
+ {
+  "id": "2b27bfedba31e108",
+  "ids": [
+   "2b27bfedba31e108"
+  ],
+  "fuzzy": "insurance finance analyst|insight recruitment solutions|the",
+  "title": "Insurance Finance Analyst",
+  "company": "Insight Recruitment Solutions Ltd",
+  "location": "The City, Central London",
+  "url": "https://www.adzuna.co.uk/jobs/details/5953507430?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-05T00:04:19Z",
+  "first_seen": "2026-11-05T12:35:22Z",
+  "last_seen": "2026-11-05T12:35:22Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5953507430?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "60 000 – 60 000 £",
+  "snippet": "Our client is a well established insurance business operating in the London Market. It is looking for a technically minded Finance Analyst to join its finance team, playing a key part in building strong processes and reliable reporting. You will own General Ledger inputs and cash flow reconciliations, making sure financial data moves accurately and efficiently through the business. You will drive ",
+  "initial": false
+ },
+ {
+  "id": "dc20e9d4d1bb548b",
+  "ids": [
+   "dc20e9d4d1bb548b"
+  ],
+  "fuzzy": "insurance finance analyst|insight recruitment solutions limited|london",
+  "title": "Insurance Finance Analyst",
+  "company": "Insight Recruitment Solutions Limited",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/land/ad/5953502324?se=hqmVUxXZ8RGRpp9sJqJzxg&utm_medium=api&utm_source=d0504545&v=4931C74B4FA1F83BDC4656E3A2D4D611F762B040",
+  "published": "2026-11-05T00:01:15Z",
+  "first_seen": "2026-11-05T12:35:22Z",
+  "last_seen": "2026-11-05T12:35:22Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5953502324?se=hqmVUxXZ8RGRpp9sJqJzxg&utm_medium=api&utm_source=d0504545&v=4931C74B4FA1F83BDC4656E3A2D4D611F762B040"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "50 000 – 60 000 £",
+  "snippet": "Our client is a well established insurance business operating in the London Market. It is looking for a technically minded Finance Analyst to join its finance team, playing a key part in building strong processes and reliable reporting. You will own General Ledger inputs and cash flow reconciliations, making sure financial data moves accurately and efficiently through the business. You will drive ",
+  "initial": false
+ },
+ {
+  "id": "9e9f61bf9de5f828",
+  "ids": [
+   "9e9f61bf9de5f828"
+  ],
+  "fuzzy": "trade finance analyst junior arm to rm mandarin preferred|harvey nash|london",
+  "title": "Trade Finance Analyst (Junior ARM to RM) (Mandarin preferred)",
+  "company": "Harvey Nash",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/land/ad/5953502377?se=_PfCUhXZ8RGnl4P0O1VslQ&utm_medium=api&utm_source=d0504545&v=48B5FAF6FFE9717E8745FAE165CCB75FAF28DC6C",
+  "published": "2026-11-05T00:01:15Z",
+  "first_seen": "2026-11-05T12:35:22Z",
+  "last_seen": "2026-11-05T12:35:22Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5953502377?se=_PfCUhXZ8RGnl4P0O1VslQ&utm_medium=api&utm_source=d0504545&v=48B5FAF6FFE9717E8745FAE165CCB75FAF28DC6C"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "65 000 – 72 800 £",
+  "snippet": "Assistant Relationship Manager | Major Chinese Banking Group | London London | Corporate Banking An excellent opportunity to join the London branch of one of China's largest and most established international banks. With a strong global presence and deep roots in the Asian banking market, this role offers exposure to corporate banking, transaction banking, credit risk, client onboarding, and relat",
+  "initial": false
+ },
+ {
+  "id": "5f99eef378e178be",
+  "ids": [
+   "5f99eef378e178be"
+  ],
+  "fuzzy": "aim research analyst|quilter|london",
+  "title": "AIM Research Analyst",
+  "company": "Quilter",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5954032824?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-05T08:36:50Z",
+  "first_seen": "2026-11-05T12:35:22Z",
+  "last_seen": "2026-11-05T12:35:22Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5954032824?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "contract",
+  "salary": "39 620 – 39 620 £",
+  "snippet": "About the Business Quilter Cheviot has been the wealth manager of choice for individuals and families for over 250 years, and today is one of the UK’s largest wealth management firms offering expert discretionary investment management and financial advice. We offer a highly personalised wealth management offering to private clients, charities, trustees, and professional partners with straightforwa",
+  "initial": false
+ },
+ {
+  "id": "78783f147d729afc",
+  "ids": [
+   "78783f147d729afc"
+  ],
+  "fuzzy": "graduate trading operations analyst|trading212|london",
+  "title": "Graduate Trading Operations Analyst",
+  "company": "Trading212",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5954028598?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-05T08:34:34Z",
+  "first_seen": "2026-11-05T12:35:22Z",
+  "last_seen": "2026-11-05T12:35:22Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5954028598?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Banque"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "44 924 – 44 924 £",
+  "snippet": "Our mission is to enable everyone to build wealth We reinvent how trading and investing work by creating exceptional products people love. Fostering a culture of excellence and high velocity is the key to our success. Тoday, we serve over 7 million clients, with more than €38 billion in assets under management - a testament to the scale and trust we’ve built in just a few years. The role We are lo",
+  "initial": false
+ },
+ {
+  "id": "ed5a2fb8d2e313bd",
+  "ids": [
+   "ed5a2fb8d2e313bd"
+  ],
+  "fuzzy": "catastrophe risk analyst|wtw|fenchurch",
+  "title": "Catastrophe Risk Analyst",
+  "company": "WTW",
+  "location": "Fenchurch St, Central London",
+  "url": "https://www.adzuna.co.uk/jobs/details/5954027880?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-05T08:34:06Z",
+  "first_seen": "2026-11-05T12:35:22Z",
+  "last_seen": "2026-11-05T12:35:22Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5954027880?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Banque"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "51 196 – 51 196 £",
+  "snippet": "Description In this role, the individual will work closely with Brokers in the Global Markets Direct and Facultative team to deliver market leading analytics. The Direct & Fac Data and Analytics team offer a wide range of analytical support to the broking team in order to secure the best results for our clients. Typical analytical support includes data management, catastrophe modelling, exposure m",
+  "initial": false
+ },
+ {
+  "id": "954781869f31e882",
+  "ids": [
+   "954781869f31e882"
+  ],
+  "fuzzy": "broker aerospace insurance|marsh mclennan|london",
+  "title": "Broker - Aerospace Insurance",
+  "company": "Marsh McLennan",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/land/ad/5952800899?se=mq_4UxXZ8RGnl4P0O1VslQ&utm_medium=api&utm_source=d0504545&v=440FBE608145EF4EC5965EE0E96E107F91879A67",
+  "published": "2026-11-04T08:34:55Z",
+  "first_seen": "2026-11-05T12:35:22Z",
+  "last_seen": "2026-11-05T12:35:22Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5952800899?se=mq_4UxXZ8RGnl4P0O1VslQ&utm_medium=api&utm_source=d0504545&v=440FBE608145EF4EC5965EE0E96E107F91879A67"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "45 308 – 45 308 £",
+  "snippet": "Company: Marsh Description: R_369737 Broker — Aerospace We are seeking a talented individual to join our Aerospace team at Marsh Risk . This role will be based in our London Tower Place office, supporting clients across the global aerospace sector. This is a hybrid role, work at least three days per week in the office. We are hiring a Broker to join the London Aerospace Broking team and help suppo",
+  "initial": false
+ },
+ {
+  "id": "b333d0c8722b56e0",
+  "ids": [
+   "b333d0c8722b56e0"
+  ],
+  "fuzzy": "global capital markets analyst associate corporate derivatives group london|morgan stanley|london",
+  "title": "Global Capital Markets – Analyst/Associate, Corporate Derivatives Group (London)",
+  "company": "Morgan Stanley",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5954035955?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-05T08:38:26Z",
+  "first_seen": "2026-11-05T12:35:22Z",
+  "last_seen": "2026-11-05T12:35:22Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5954035955?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "92 574 – 92 574 £",
+  "snippet": "Global Capital Markets – Corporate Derivatives Group – Analyst/Associate – London We are looking for an Analyst or Associate to join the Corporate Derivatives Group in London, a team that brings together corporate finance, derivatives and global markets to solve complex risk-management challenges for our clients. Sitting within Global Capital Markets (GCM), the team advises corporate clients on ma",
+  "initial": false
+ },
+ {
+  "id": "c97be92cf980ef3b",
+  "ids": [
+   "c97be92cf980ef3b"
+  ],
+  "fuzzy": "pricing and structuring analyst|electroroute|london",
+  "title": "Pricing and Structuring Analyst",
+  "company": "ElectroRoute",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5952802587?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-04T08:38:54Z",
+  "first_seen": "2026-11-05T12:35:22Z",
+  "last_seen": "2026-11-05T12:35:22Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5952802587?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "92 773 – 92 773 £",
+  "snippet": "Pricing and Structuring Analyst About ElectroRoute Our vision is to make net zero a reality by solving the commercial mechanics of a decarbonised energy system. ElectroRoute is an international, renewables focused energy trading and services company. The company employs over 90 energy professionals based in Ireland, the UK and Europe and is a subsidiary of Mitsubishi Corporation. ElectroRoute inte",
+  "initial": false
+ },
+ {
+  "id": "9a69b2602295c408",
+  "ids": [
+   "9a69b2602295c408"
+  ],
+  "fuzzy": "associate property casualty e s broker|criterion executive search|new",
+  "title": "Associate Property & Casualty E&S Broker",
+  "company": "Criterion Executive Search, Inc.",
+  "location": "New York City, New York",
+  "url": "https://www.adzuna.com/details/5953491036?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-04T18:54:30Z",
+  "first_seen": "2026-11-05T12:35:22Z",
+  "last_seen": "2026-11-05T12:35:22Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.com/details/5953491036?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "58 951 – 58 951 $",
+  "snippet": "Job Description Associate Property & Casualty E&S Broker | Midtown NYC (Entry-Level) \\n A leading wholesale brokerage is seeking an entry-level Broker Associate to work alongside and support an experienced E&S Broker. This hybrid role is based in Manhattan and will focus on managing submissions from retail agents and producers, supporting the pre-binding process, and assisting with day-to-day brok",
+  "initial": false
+ },
+ {
+  "id": "6b5db4389e859dd6",
+  "ids": [
+   "6b5db4389e859dd6"
+  ],
+  "fuzzy": "investment banking analyst m a ipos financing|jp morgan chase|singapore",
+  "title": "Investment Banking Analyst: M&A, IPOs & Financing",
+  "company": "JP Morgan Chase",
+  "location": "Singapore",
+  "url": "https://www.adzuna.sg/details/5954011877?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-05T16:20:19Z",
+  "first_seen": "2026-11-05T12:35:22Z",
+  "last_seen": "2026-11-05T12:35:22Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.sg/details/5954011877?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance",
+   "Banque"
+  ],
+  "score": 5,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "1 080 – 1 680 S$",
+  "snippet": "JP Morgan Chase in Singapore seeks an investment banking associate to support senior bankers in originating, structuring, and executing financing and advisory transactions across M&A, IPOs, bonds, loans, and structured products. You will prepare marketing materials, build financial models, conduct valuation analyses, and help manage deal risks while coordinating with internal teams and external pa",
+  "initial": false
+ },
+ {
+  "id": "463a23a73c35dac6",
+  "ids": [
+   "463a23a73c35dac6"
+  ],
+  "fuzzy": "capital markets business analyst|kris infotech pte|singapore",
+  "title": "Capital Markets Business Analyst",
+  "company": "KRIS INFOTECH PTE. LTD.",
+  "location": "Singapore",
+  "url": "https://www.adzuna.sg/details/5954014814?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-05T16:22:47Z",
+  "first_seen": "2026-11-05T12:35:22Z",
+  "last_seen": "2026-11-05T12:35:22Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.sg/details/5954014814?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "1 080 – 1 560 S$",
+  "snippet": "Job Description: Delivery of comprehensive business analysis to provide solutions for business needs. Work with the project team including product owner, senior developers, architects, BA’s to deliver business requirements and improve business processes and systems. Work closely with stakeholders to define requirement and various artifacts around application development or enhancement. Specificati",
+  "initial": false
+ },
+ {
+  "id": "6bea7d2ccd86cc0c",
+  "ids": [
+   "6bea7d2ccd86cc0c"
+  ],
+  "fuzzy": "apac commodity broker oil energy metals markets|imperium commodity search|singapore",
+  "title": "APAC Commodity Broker | Oil, Energy & Metals Markets",
+  "company": "Imperium Commodity Search",
+  "location": "Singapore",
+  "url": "https://www.adzuna.sg/details/5954180838?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-05T20:17:24Z",
+  "first_seen": "2026-11-05T12:35:22Z",
+  "last_seen": "2026-11-05T12:35:22Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.sg/details/5954180838?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "1 440 – 2 880 S$",
+  "snippet": "Imperium Commodity Search is seeking experienced commodity brokers to join a growing APAC desk, ideally in Singapore, with flexibility for other major hubs. The role centers on brokering physical or derivative contracts, servicing institutional clients, and expanding the client base across oil, gas, energy and metals markets. You will maintain client relationships, deliver execution services, and ",
+  "initial": false
+ },
+ {
+  "id": "52af54d2f38f95a6",
+  "ids": [
+   "52af54d2f38f95a6"
+  ],
+  "fuzzy": "trader|singhai energy pte|singapore",
+  "title": "TRADER",
+  "company": "SINGHAI ENERGY PTE. LTD.",
+  "location": "Singapore",
+  "url": "https://www.adzuna.sg/details/5954011832?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-05T16:20:18Z",
+  "first_seen": "2026-11-05T12:35:22Z",
+  "last_seen": "2026-11-05T12:35:22Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.sg/details/5954011832?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "1 440 – 1 980 S$",
+  "snippet": "Trader (Gasoline) Department: Trading Location: Singapore Employment Type: Full-Time Job Summary We are seeking an experienced Gasoline Trader to join our trading team in Singapore. The successful candidate will be responsible for developing and managing the company’s gasoline trading activities, identifying profitable trading opportunities, managing customer and supplier relationships, and execut",
+  "initial": false
+ },
+ {
   "id": "24f6c02000cc9629",
   "ids": [
    "24f6c02000cc9629"
@@ -11,7 +553,7 @@
   "url": "https://www.adzuna.fr/details/5953169147?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-04T17:30:56Z",
   "first_seen": "2026-11-04T19:57:18Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -41,7 +583,7 @@
   "url": "https://www.adzuna.fr/details/5952972358?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-04T14:16:30Z",
   "first_seen": "2026-11-04T19:57:18Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -71,7 +613,7 @@
   "url": "https://www.adzuna.fr/details/5952960192?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-04T14:13:37Z",
   "first_seen": "2026-11-04T19:57:18Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -101,7 +643,7 @@
   "url": "https://www.adzuna.fr/details/5952959104?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-04T14:13:28Z",
   "first_seen": "2026-11-04T19:57:18Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -132,7 +674,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5953386036?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-04T19:33:23Z",
   "first_seen": "2026-11-04T19:57:18Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -162,7 +704,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5953048451?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-04T14:50:55Z",
   "first_seen": "2026-11-04T19:57:18Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -192,7 +734,7 @@
   "url": "https://www.adzuna.com/details/5953089865?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-04T10:21:36Z",
   "first_seen": "2026-11-04T19:57:18Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -222,7 +764,7 @@
   "url": "https://www.adzuna.com/land/ad/5953179839?se=CIy154nY8RG8-MdCexMuug&utm_medium=api&utm_source=d0504545&v=2AFF076FAB6912F65EB8245E945E4ACDF64ACB43",
   "published": "2026-11-04T11:34:38Z",
   "first_seen": "2026-11-04T19:57:18Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -252,7 +794,7 @@
   "url": "https://www.adzuna.de/details/5953277503?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-04T18:30:06Z",
   "first_seen": "2026-11-04T19:57:18Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -282,7 +824,7 @@
   "url": "https://www.adzuna.sg/details/5953257762?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-05T01:12:14Z",
   "first_seen": "2026-11-04T19:57:18Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -432,7 +974,7 @@
   "url": "https://www.adzuna.fr/details/5952307215?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-04T04:29:20Z",
   "first_seen": "2026-11-04T12:20:46Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -462,7 +1004,7 @@
   "url": "https://www.adzuna.fr/details/5952301762?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-04T04:25:42Z",
   "first_seen": "2026-11-04T12:20:46Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -492,7 +1034,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5952303545?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-04T03:26:49Z",
   "first_seen": "2026-11-04T12:20:46Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -514,7 +1056,8 @@
  {
   "id": "241182a3d7746ff6",
   "ids": [
-   "241182a3d7746ff6"
+   "241182a3d7746ff6",
+   "4e67832130878c58"
   ],
   "fuzzy": "investment banking analyst associate greece cyprus coverage|bank of america|london",
   "title": "Investment Banking Analyst/ Associate - Greece & Cyprus Coverage",
@@ -523,7 +1066,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5952303246?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-04T03:26:37Z",
   "first_seen": "2026-11-04T12:20:46Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -554,7 +1097,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5952304803?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-04T03:27:56Z",
   "first_seen": "2026-11-04T12:20:46Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -584,7 +1127,7 @@
   "url": "https://www.adzuna.co.uk/jobs/land/ad/5952793260?se=EKQTHUrY8RG31aRBo5HR6Q&utm_medium=api&utm_source=d0504545&v=0D724A50C68D0550AE064BB3BEB0997886096600",
   "published": "2026-11-04T08:23:44Z",
   "first_seen": "2026-11-04T12:20:46Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -614,7 +1157,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5952333975?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-04T03:37:59Z",
   "first_seen": "2026-11-04T12:20:46Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -644,7 +1187,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5952303484?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-04T03:26:48Z",
   "first_seen": "2026-11-04T12:20:46Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -674,7 +1217,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5952303463?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-04T03:26:47Z",
   "first_seen": "2026-11-04T12:20:46Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -704,7 +1247,7 @@
   "url": "https://www.adzuna.sg/details/5952519733?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-04T12:34:47Z",
   "first_seen": "2026-11-04T12:20:46Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -734,7 +1277,7 @@
   "url": "https://www.adzuna.sg/details/5951497685?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-03T15:16:34Z",
   "first_seen": "2026-11-04T12:20:46Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -764,7 +1307,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5951730390?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-03T13:38:58Z",
   "first_seen": "2026-11-03T19:40:26Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -795,7 +1338,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5952086220?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-03T19:23:56Z",
   "first_seen": "2026-11-03T19:40:26Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -825,7 +1368,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5952073800?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-03T18:46:47Z",
   "first_seen": "2026-11-03T19:40:26Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -855,7 +1398,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5951761020?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-03T14:06:23Z",
   "first_seen": "2026-11-03T19:40:26Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -945,7 +1488,7 @@
   "url": "https://www.adzuna.de/details/5951918971?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-03T17:19:48Z",
   "first_seen": "2026-11-03T19:40:26Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1095,7 +1638,7 @@
   "url": "https://www.adzuna.fr/details/5951242907?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-03T03:35:32Z",
   "first_seen": "2026-11-03T12:08:06Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1125,7 +1668,7 @@
   "url": "https://www.adzuna.fr/details/5951141765?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-03T03:18:50Z",
   "first_seen": "2026-11-03T12:08:06Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1186,7 +1729,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5951525369?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-03T08:32:59Z",
   "first_seen": "2026-11-03T12:08:06Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1216,7 +1759,7 @@
   "url": "https://www.adzuna.com/land/ad/5951540185?se=1LEIMX_X8RGkoLzvgzDRxQ&utm_medium=api&utm_source=d0504545&v=5EEB3B3543E83420C22C12F4AFA8D4A6B125724B",
   "published": "2026-11-03T04:03:33Z",
   "first_seen": "2026-11-03T12:08:06Z",
-  "last_seen": "2026-11-03T12:08:06Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1247,7 +1790,7 @@
   "url": "https://www.adzuna.de/land/ad/5951168831?se=Hn5nNH_X8RGA_ZzrneFVXQ&utm_medium=api&utm_source=d0504545&v=1B5346303284F2AB34C92D50EE459ECA601FD0C7",
   "published": "2026-11-03T03:23:56Z",
   "first_seen": "2026-11-03T12:08:06Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1277,7 +1820,7 @@
   "url": "https://www.adzuna.de/details/5950869762?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-02T19:50:24Z",
   "first_seen": "2026-11-03T12:08:06Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1307,7 +1850,7 @@
   "url": "https://www.adzuna.sg/details/5951494916?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-03T15:12:17Z",
   "first_seen": "2026-11-03T12:08:06Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1337,7 +1880,7 @@
   "url": "https://www.adzuna.sg/land/ad/5950289617?se=QkIHOX_X8RG-d7R47S4tPQ&utm_medium=api&utm_source=d0504545&v=98006C4358004BF64086C867DBF75FDDF5DC1BF4",
   "published": "2026-11-02T14:27:11Z",
   "first_seen": "2026-11-03T12:08:06Z",
-  "last_seen": "2026-11-03T19:40:26Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1367,7 +1910,7 @@
   "url": "https://www.adzuna.sg/land/ad/5950554057?se=Mh08OX_X8RGccYoPu-e9eg&utm_medium=api&utm_source=d0504545&v=46D95863E5EB3B6076E2909EC9EA58194E0D77CF",
   "published": "2026-11-02T20:52:55Z",
   "first_seen": "2026-11-03T12:08:06Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1397,7 +1940,7 @@
   "url": "https://www.adzuna.sg/details/5951497619?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-03T15:16:33Z",
   "first_seen": "2026-11-03T12:08:06Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1427,7 +1970,7 @@
   "url": "https://www.adzuna.sg/details/5951496289?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-03T15:14:25Z",
   "first_seen": "2026-11-03T12:08:06Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1728,7 +2271,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5950693857?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-02T15:23:47Z",
   "first_seen": "2026-11-02T22:24:26Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1758,7 +2301,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5950934948?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-02T21:25:43Z",
   "first_seen": "2026-11-02T22:24:26Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1788,7 +2331,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5950647501?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-02T14:01:37Z",
   "first_seen": "2026-11-02T22:24:26Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1818,7 +2361,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5950647340?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-02T14:01:19Z",
   "first_seen": "2026-11-02T22:24:26Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1848,7 +2391,7 @@
   "url": "https://www.adzuna.co.uk/jobs/land/ad/5950647372?se=JBLaEwzX8RGfjaEYrywE8Q&utm_medium=api&utm_source=d0504545&v=48E3997BCF3E8DEEDE3C76968506A8C0C119FEBE",
   "published": "2026-11-02T14:01:20Z",
   "first_seen": "2026-11-02T22:24:26Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1929,7 +2472,8 @@
  {
   "id": "036434d3aedd0522",
   "ids": [
-   "036434d3aedd0522"
+   "036434d3aedd0522",
+   "ba299103f4ccba53"
   ],
   "fuzzy": "kyc quality control analyst spanish speaking|eclerx|london",
   "title": "KYC Quality Control Analyst - Spanish speaking",
@@ -1938,7 +2482,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5948866921?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-01T08:27:41Z",
   "first_seen": "2026-11-02T12:42:07Z",
-  "last_seen": "2026-11-03T19:40:26Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1968,7 +2512,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5949998405?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-02T02:16:05Z",
   "first_seen": "2026-11-02T12:42:07Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1998,7 +2542,7 @@
   "url": "https://www.adzuna.co.uk/jobs/land/ad/5950407554?se=yvKjxLrW8RG4hO90TEfF4Q&utm_medium=api&utm_source=d0504545&v=64F686FB1780D35373CE7276E810A8B563C3A00B",
   "published": "2026-11-02T08:34:58Z",
   "first_seen": "2026-11-02T12:42:07Z",
-  "last_seen": "2026-11-04T12:20:46Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2149,7 +2693,7 @@
   "url": "https://www.adzuna.sg/details/5950328746?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-02T15:16:51Z",
   "first_seen": "2026-11-02T12:42:07Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2179,7 +2723,7 @@
   "url": "https://www.adzuna.sg/details/5950322253?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-02T15:13:11Z",
   "first_seen": "2026-11-02T12:42:07Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2209,7 +2753,7 @@
   "url": "https://www.adzuna.sg/details/5950317447?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-02T15:11:21Z",
   "first_seen": "2026-11-02T12:42:07Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -5333,7 +5877,8 @@
  {
   "id": "5fbf513ed7532c81",
   "ids": [
-   "5fbf513ed7532c81"
+   "5fbf513ed7532c81",
+   "2815f453cf0a81cd"
   ],
   "fuzzy": "controleur financier private equity|fed|1er",
   "title": "Contrôleur Financier - Private Equity",
@@ -5342,7 +5887,7 @@
   "url": "https://www.adzuna.fr/details/5943891622?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-28T02:38:47Z",
   "first_seen": "2026-10-28T10:42:18Z",
-  "last_seen": "2026-10-31T20:08:38Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -6245,7 +6790,7 @@
   "url": "https://www.adzuna.fr/details/5942975687?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-27T03:18:50Z",
   "first_seen": "2026-10-27T09:55:32Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -6276,7 +6821,7 @@
   "url": "https://www.adzuna.fr/details/5942895608?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-27T02:35:14Z",
   "first_seen": "2026-10-27T09:55:32Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -6779,7 +7324,8 @@
  {
   "id": "273354a5e81316fc",
   "ids": [
-   "273354a5e81316fc"
+   "273354a5e81316fc",
+   "a5887a4ec9540b6f"
   ],
   "fuzzy": "kyc analyst m w d|amadeus fire ag|fechenheim",
   "title": "KYC Analyst (m/w/d)",
@@ -6788,7 +7334,7 @@
   "url": "https://www.adzuna.de/details/5941981677?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-26T04:54:08Z",
   "first_seen": "2026-10-26T10:20:16Z",
-  "last_seen": "2026-10-26T10:20:16Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -8043,7 +8589,8 @@
  {
   "id": "8045fd530b8f43ca",
   "ids": [
-   "8045fd530b8f43ca"
+   "8045fd530b8f43ca",
+   "15c2f0a8cb315c37"
   ],
   "fuzzy": "capital market structurer|natixis corporate investment banking|paris",
   "title": "Capital Market Structurer",
@@ -8052,7 +8599,7 @@
   "url": "https://www.adzuna.fr/details/5937391176?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T06:05:17Z",
   "first_seen": "2026-10-23T19:22:29Z",
-  "last_seen": "2026-10-25T09:15:49Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -8065,7 +8612,7 @@
   "score": 3,
   "to_check": false,
   "priority": false,
-  "contract": "",
+  "contract": "permanent",
   "salary": "90 000 – 130 000 €",
   "snippet": "Description de l’entreprise Institution financière internationale de premier plan, Natixis Corporate & Investment Banking met à disposition des entreprises, institutions financières, fonds d’investissement, agences souverains et supranationaux une palette de services en conseil, investment banking, financements, banque commerciale et sur les marchés de capitaux. Ses équipes d’experts, présentes da",
   "initial": false
@@ -10785,7 +11332,8 @@
  {
   "id": "e647f04b0ce4a303",
   "ids": [
-   "e647f04b0ce4a303"
+   "e647f04b0ce4a303",
+   "4da6eb0fdf7b3a31"
   ],
   "fuzzy": "conseiller clientele digitale h f|finaia|13eme",
   "title": "Conseiller Clientèle Digitale H/F",
@@ -10794,7 +11342,7 @@
   "url": "https://www.adzuna.fr/details/5935135146?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-20T06:58:09Z",
   "first_seen": "2026-10-21T09:28:41Z",
-  "last_seen": "2026-10-23T19:22:29Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -12332,7 +12880,7 @@
   "url": "https://www.adzuna.co.uk/jobs/land/ad/5931897158?se=2Di4SUjK8RG8ULiosykwmQ&utm_medium=api&utm_source=d0504545&v=7924E18BD3D8EF349BA13CC519C353C0CEBD9E95",
   "published": "2026-10-17T09:36:29Z",
   "first_seen": "2026-10-17T16:32:25Z",
-  "last_seen": "2026-11-04T19:57:18Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
@@ -14680,7 +15228,8 @@
  {
   "id": "58964ac7079ee6d5",
   "ids": [
-   "58964ac7079ee6d5"
+   "58964ac7079ee6d5",
+   "e78e9c185e3f11a3"
   ],
   "fuzzy": "middle office credits professionnels h f|fed|paris",
   "title": "Middle office crédits professionnels H/F",
@@ -14689,7 +15238,7 @@
   "url": "https://www.adzuna.fr/details/5918115358?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-08T04:02:28Z",
   "first_seen": "2026-10-15T14:42:56Z",
-  "last_seen": "2026-10-15T14:42:56Z",
+  "last_seen": "2026-11-05T12:35:22Z",
   "sources": [
    {
     "source": "adzuna",
