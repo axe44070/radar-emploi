@@ -1,5 +1,546 @@
 [
  {
+  "id": "a7e0c3ed54adde17",
+  "ids": [
+   "a7e0c3ed54adde17"
+  ],
+  "fuzzy": "analyste financier h f|fed|paris",
+  "title": "Analyste financier H/F",
+  "company": "Fed Group",
+  "location": "Paris, Ile-de-France",
+  "url": "https://www.adzuna.fr/details/5960987501?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-11T04:59:31Z",
+  "first_seen": "2026-11-11T11:59:07Z",
+  "last_seen": "2026-11-11T11:59:07Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.fr/details/5960987501?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "contract",
+  "salary": "35 000 – 40 000 €",
+  "snippet": "Fed Finance cabinet de recrutement spécialisé recherche pour une banque française de renom un : Analyste financier H/F Fed Finance cabinet de recrutement spécialisé dans les métiers de la banque et de l'assurance, recherche pour une institution bancaire reconnue un/e Analyste financier. Rattaché au Responsable de l'équipe, vos principales missions seront les suivantes : - Vérifier la conformité de",
+  "initial": false
+ },
+ {
+  "id": "9663ed4f9a2c722a",
+  "ids": [
+   "9663ed4f9a2c722a"
+  ],
+  "fuzzy": "analyste financier h f|fed finance|1er",
+  "title": "Analyste financier H/F",
+  "company": "Fed Finance",
+  "location": "1er Arrondissement, Paris",
+  "url": "https://www.adzuna.fr/details/5960976851?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-11T04:44:36Z",
+  "first_seen": "2026-11-11T11:59:07Z",
+  "last_seen": "2026-11-11T11:59:07Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.fr/details/5960976851?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "contract",
+  "salary": "35 000 – 40 000 €",
+  "snippet": "Fed Finance cabinet de recrutement spécialisé dans les métiers de la banque et de l'assurance, recherche pour une institution bancaire reconnue un/e Analyste financier. Rattaché au Responsable de l'équipe, vos principales missions seront les suivantes : - Vérifier la conformité des données financières et documents transmis par les clients entreprises ; - Contrôler la complétude des dossiers dans l",
+  "initial": false
+ },
+ {
+  "id": "6979018d92caf435",
+  "ids": [
+   "6979018d92caf435"
+  ],
+  "fuzzy": "finaxys recrute un business analyst fixed income cdi h f finaxys|finaxys|paris",
+  "title": "Finaxys recrute un Business Analyst Fixed Income / CDI (H/F) - Finaxys",
+  "company": "FINAXYS",
+  "location": "Paris, Ile-de-France",
+  "url": "https://www.adzuna.fr/details/5961240430?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-11T07:57:12Z",
+  "first_seen": "2026-11-11T11:59:07Z",
+  "last_seen": "2026-11-11T11:59:07Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.fr/details/5961240430?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "permanent",
+  "salary": "",
+  "snippet": "Qui sommes-nous ? Finaxys est un cabinet de conseil spécialisé dans les secteurs Banque, Finance et Assurance . Depuis plus de 15 ans, nous intervenons auprès des plus grandes institutions telles que BNP Paribas, Crédit Agricole, Société Générale, AXA, Malakoff Humanis , etc. en proposant des solutions technologiques innovantes (IA, Machine Learning, Data, Cloud, DevSecOps, etc.). Notre mission ? ",
+  "initial": false
+ },
+ {
+  "id": "f2e5191948bf0c40",
+  "ids": [
+   "f2e5191948bf0c40"
+  ],
+  "fuzzy": "business analyst middle office private assets f h cdi|free work|1er",
+  "title": "Business Analyst Middle Office Private Assets - F/H (CDI)",
+  "company": "Free-Work",
+  "location": "1er Arrondissement, Paris",
+  "url": "https://www.adzuna.fr/land/ad/5960905655?se=cLz9PMfd8RGKhbl5D1rFLQ&utm_medium=api&utm_source=d0504545&v=40976014E275C85AE3640497E16ECB03064DBA0D",
+  "published": "2026-11-11T03:48:15Z",
+  "first_seen": "2026-11-11T11:59:07Z",
+  "last_seen": "2026-11-11T11:59:07Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.fr/land/ad/5960905655?se=cLz9PMfd8RGKhbl5D1rFLQ&utm_medium=api&utm_source=d0504545&v=40976014E275C85AE3640497E16ECB03064DBA0D"
+   }
+  ],
+  "profiles": [
+   "Banque"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "permanent",
+  "salary": "",
+  "snippet": "Free-Work est une plateforme qui s'adresse à tous les professionnels des métiers de l'informatique. Ses contenus et son jobboard IT sont mis à disposition 100% gratuitement pour les indépendants et les salariés du secteur. Nous recherchons pour une mission longue chez notre client secteur banque/finance en région parisienne un Business Analyst Middle Office Private Assets. Vous intervenez dans le ",
+  "initial": false
+ },
+ {
+  "id": "66331f754d8027a0",
+  "ids": [
+   "66331f754d8027a0"
+  ],
+  "fuzzy": "gestionnaire middle office f h|dorval asset management|16eme",
+  "title": "Gestionnaire middle office F/H",
+  "company": "DORVAL ASSET MANAGEMENT",
+  "location": "16ème Arrondissement, Paris",
+  "url": "https://www.adzuna.fr/details/5960348060?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-10T14:22:02Z",
+  "first_seen": "2026-11-11T11:59:07Z",
+  "last_seen": "2026-11-11T11:59:07Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.fr/details/5960348060?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Banque"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "permanent",
+  "salary": "",
+  "snippet": "Dans un contexte de croissance et de structuration, Dorval Asset Management recherche un Gestionnaire Middle-office (H/F) pour assister les équipes de gestion dans leurs missions. Rattaché(e) à la Responsable Middle Office, vous intervenez sur l'ensemble de la chaîne opérationnelle de la gestion avec une dominante forte en gestion collective et un périmètre complémentaire en gestion sous mandat. V",
+  "initial": false
+ },
+ {
+  "id": "92ee8cec73dfd00d",
+  "ids": [
+   "92ee8cec73dfd00d"
+  ],
+  "fuzzy": "infrastructure m a analyst|credit agricole cib|london",
+  "title": "Infrastructure M&A Analyst",
+  "company": "Crédit Agricole CIB",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5961466737?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-11T09:52:20Z",
+  "first_seen": "2026-11-11T11:59:07Z",
+  "last_seen": "2026-11-11T11:59:07Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5961466737?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "contract",
+  "salary": "60 818 – 60 818 £",
+  "snippet": "General information Entity About Crédit Agricole Corporate and Investment Bank (Crédit Agricole CIB) Crédit Agricole CIB is the corporate and investment bank of the Crédit Agricole group, the 10th largest banking group in the world *. We support major companies and financial institutions in their development and the financing of their projects. As pioneers in responsible finance, social and enviro",
+  "initial": false
+ },
+ {
+  "id": "939f74b85e35c3ba",
+  "ids": [
+   "939f74b85e35c3ba"
+  ],
+  "fuzzy": "cj1573 kyc analyst|c james|london",
+  "title": "CJ1573 - KYC analyst",
+  "company": "C James",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5961466948?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-11T09:52:39Z",
+  "first_seen": "2026-11-11T11:59:07Z",
+  "last_seen": "2026-11-11T11:59:07Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5961466948?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Banque"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "46 330 – 46 330 £",
+  "snippet": "KYC Analyst Number of Openings: 1 Job Responsibilities Perform Customer Due Diligence (CDD) and Enhanced Due Diligence (EDD), verify identities, assess money‑laundering risk, and maintain compliant records. Collaborate with Relationship Managers, Compliance and Legal teams to resolve KYC issues, prepare reports, and monitor ongoing activity for suspicious transactions. Stay current with UK and glo",
+  "initial": false
+ },
+ {
+  "id": "3f6e71266564964d",
+  "ids": [
+   "3f6e71266564964d"
+  ],
+  "fuzzy": "broker referral program london|market securities|marylebone",
+  "title": "Broker Referral Program - London",
+  "company": "Market-Securities",
+  "location": "Marylebone, North West London",
+  "url": "https://www.adzuna.co.uk/jobs/details/5960210217?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-10T09:59:11Z",
+  "first_seen": "2026-11-11T11:59:07Z",
+  "last_seen": "2026-11-11T11:59:07Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5960210217?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "120 000 – 120 000 £",
+  "snippet": "Dear All, As part of our growth strategy, we are launching a referral program to support the expansion of our broker population. We are looking for: • Mid to senior brokers • Strong track record and client relationships • London office based Your network is one of our strongest assets. If you know high-quality brokers who could be a fit, we encourage you to refer them. Incentive: • USD 10,000 • 50",
+  "initial": false
+ },
+ {
+  "id": "ae66aa7f4c3ffedb",
+  "ids": [
+   "ae66aa7f4c3ffedb"
+  ],
+  "fuzzy": "investment banking analyst industrials|houlihan lokey|new",
+  "title": "Investment Banking Analyst | Industrials",
+  "company": "Houlihan Lokey",
+  "location": "New York City, New York",
+  "url": "https://www.adzuna.com/details/5961564891?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-11T06:50:20Z",
+  "first_seen": "2026-11-11T11:59:07Z",
+  "last_seen": "2026-11-11T11:59:07Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.com/details/5961564891?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance",
+   "Banque"
+  ],
+  "score": 5,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "120 000 – 120 000 $",
+  "snippet": "Business Unit: Corporate Finance Industry: Industrials&xa;&xa; Overview Houlihan Lokey, Inc. (NYSE:HLI) is a leading global investment bank recognized for delivering independent strategic and financial advice to corporations, financial sponsors, and governments. With uniquely deep industry expertise, broad international reach, and a partnership approach rooted in trust, the firm provides innovativ",
+  "initial": false
+ },
+ {
+  "id": "914bb74c0e20c30f",
+  "ids": [
+   "914bb74c0e20c30f"
+  ],
+  "fuzzy": "fp a analyst|hermes|new",
+  "title": "FP&A Analyst",
+  "company": "Hermes",
+  "location": "New York City, New York",
+  "url": "https://www.adzuna.com/details/5961331567?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-11T02:43:45Z",
+  "first_seen": "2026-11-11T11:59:07Z",
+  "last_seen": "2026-11-11T11:59:07Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.com/details/5961331567?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "70 000 – 80 000 $",
+  "snippet": "Description The Team: The Finance team is responsible for protecting the Company’s financial assets, mitigating financial risks and reporting the financial position of the company to business stakeholders. The department is comprised of three main pillars: Financial Planning & Analysis (FP&A), Accounting, & Treasury The Opportunity: As the Financial Analyst, you will be responsible for supporting ",
+  "initial": false
+ },
+ {
+  "id": "6271a738719e32f8",
+  "ids": [
+   "6271a738719e32f8"
+  ],
+  "fuzzy": "junior broker u s inflation|tp icap|new",
+  "title": "Junior Broker - U.S. Inflation",
+  "company": "TP ICAP",
+  "location": "New York City, New York",
+  "url": "https://www.adzuna.com/details/5961124029?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-11T00:47:21Z",
+  "first_seen": "2026-11-11T11:59:07Z",
+  "last_seen": "2026-11-11T11:59:07Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.com/details/5961124029?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "75 000 – 100 000 $",
+  "snippet": "Group Overview The TP ICAP Group is a world leading provider of market infrastructure. Our purpose is to provide clients with access to global financial and commodities markets, improving price discovery, liquidity, and distribution of data, through responsible and innovative solutions. Through our people and technology, we connect clients to superior liquidity and data solutions. The Group is hom",
+  "initial": false
+ },
+ {
+  "id": "4e68b428b75be8b7",
+  "ids": [
+   "4e68b428b75be8b7"
+  ],
+  "fuzzy": "floor trader|belvedere trading|new",
+  "title": "Floor Trader",
+  "company": "Belvedere Trading",
+  "location": "New York City, New York",
+  "url": "https://www.adzuna.com/land/ad/5961080554?se=VttXQsfd8RGDz_yCA39Obg&utm_medium=api&utm_source=d0504545&v=EBA2CA1B2AD4FEBE0F3E11956B163677BAC79494",
+  "published": "2026-11-10T23:26:07Z",
+  "first_seen": "2026-11-11T11:59:07Z",
+  "last_seen": "2026-11-11T11:59:07Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.com/land/ad/5961080554?se=VttXQsfd8RGDz_yCA39Obg&utm_medium=api&utm_source=d0504545&v=EBA2CA1B2AD4FEBE0F3E11956B163677BAC79494"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "79 517 – 79 517 $",
+  "snippet": "Job Description Job Description Belvedere Trading is a leading proprietary trading firm. We are a team driven by intellectual curiosity, seeking answers that will change not only how we trade in this technological age, but also the future landscape of the trading industry. Our traders provide liquidity to the market through their market-making activities and are the masters of a diverse set of com",
+  "initial": false
+ },
+ {
+  "id": "9fecea8cc02dc109",
+  "ids": [
+   "9fecea8cc02dc109"
+  ],
+  "fuzzy": "associate property casualty e s broker nyc|criterion executive search|new",
+  "title": "Associate Property & Casualty E&S Broker NYC",
+  "company": "Criterion Executive Search",
+  "location": "New York City, New York",
+  "url": "https://www.adzuna.com/land/ad/5961072951?se=VttXQsfd8RGDz_yCA39Obg&utm_medium=api&utm_source=d0504545&v=EC2EDB0131AA893DD455F6496F8DD3D17E39BDA6",
+  "published": "2026-11-10T23:24:51Z",
+  "first_seen": "2026-11-11T11:59:07Z",
+  "last_seen": "2026-11-11T11:59:07Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.com/land/ad/5961072951?se=VttXQsfd8RGDz_yCA39Obg&utm_medium=api&utm_source=d0504545&v=EC2EDB0131AA893DD455F6496F8DD3D17E39BDA6"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "59 636 – 59 636 $",
+  "snippet": "Job Description Job Description Associate Property & Casualty E&S Broker | Midtown NYC (Entry-Level) A leading wholesale brokerage is seeking an entry-level Broker Associate to work alongside and support an experienced E&S Broker. This hybrid role is based in Manhattan and will focus on managing submissions from retail agents and producers, supporting the pre-binding process, and assisting with da",
+  "initial": false
+ },
+ {
+  "id": "78532fb8b1a30af3",
+  "ids": [
+   "78532fb8b1a30af3"
+  ],
+  "fuzzy": "real estate agent associate capital markets|greysteel company|new",
+  "title": "Real Estate Agent / Associate (Capital Markets)",
+  "company": "Greysteel Company Llc",
+  "location": "New York City, New York",
+  "url": "https://www.adzuna.com/land/ad/5961057111?se=qhbDQsfd8RGn4sJzdKremA&utm_medium=api&utm_source=d0504545&v=D5166F53D62908A14B3469A439A50B3B69CDEE44",
+  "published": "2026-11-10T23:22:20Z",
+  "first_seen": "2026-11-11T11:59:07Z",
+  "last_seen": "2026-11-11T11:59:07Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.com/land/ad/5961057111?se=qhbDQsfd8RGn4sJzdKremA&utm_medium=api&utm_source=d0504545&v=D5166F53D62908A14B3469A439A50B3B69CDEE44"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "125 370 – 125 370 $",
+  "snippet": "Job Description Job Description The Greysteel Company Smart investments begin with sustainable relationships. Greysteel is a leading advisor for private, middle market, and institutional real estate investors. Our collaborative platform optimizes solutions for our clients by providing end-to-end investment services including investment property sales, capital markets, and structured finance. The a",
+  "initial": false
+ },
+ {
+  "id": "96855928a2e9f632",
+  "ids": [
+   "96855928a2e9f632"
+  ],
+  "fuzzy": "investment analyst high yield leveraged loans|new york life insurance co|new",
+  "title": "Investment Analyst - High Yield & Leveraged Loans",
+  "company": "New York Life Insurance Co",
+  "location": "New York City, New York",
+  "url": "https://www.adzuna.com/details/5960003485?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-10T01:51:33Z",
+  "first_seen": "2026-11-11T11:59:07Z",
+  "last_seen": "2026-11-11T11:59:07Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.com/details/5960003485?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "105 798 – 105 798 $",
+  "snippet": "Location Designation: Hybrid - 4 days per week About New York Life Investment Management With over $800 billion in assets under management, NYLIM is a Pensions & Investments ' Top 30 Largest Money Manager and one of the largest global asset managers serving institutional, retail and insurance clients. NYLIM brings together the firm’s global investment teams under one unified brand, combining speci",
+  "initial": false
+ },
+ {
+  "id": "53669e1e4e776954",
+  "ids": [
+   "53669e1e4e776954"
+  ],
+  "fuzzy": "institutional equity sales|blue signal search|new",
+  "title": "Institutional Equity Sales",
+  "company": "Blue Signal Search",
+  "location": "New York City, New York",
+  "url": "https://www.adzuna.com/details/5961416756?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-11T04:03:53Z",
+  "first_seen": "2026-11-11T11:59:07Z",
+  "last_seen": "2026-11-11T11:59:07Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.com/details/5961416756?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "137 332 – 137 332 $",
+  "snippet": "Institutional Equity Sales New York City, NY Our client is seeking an Institutional Equity Sales professional to join a high-performing investment research platform serving sophisticated institutional investors. This is an opportunity to sit at the intersection of differentiated fundamental research, short-oriented investing, and relationship-driven sales. The successful candidate will work direct",
+  "initial": false
+ },
+ {
+  "id": "3793bb40c4dbadbd",
+  "ids": [
+   "3793bb40c4dbadbd"
+  ],
+  "fuzzy": "finance analyst global electronic components company|flintex consulting pte|central",
+  "title": "Finance Analyst - Global Electronic Components Company",
+  "company": "Flintex Consulting Pte Ltd",
+  "location": "Central, Singapore",
+  "url": "https://www.adzuna.sg/details/5961417693?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-11T17:07:09Z",
+  "first_seen": "2026-11-11T11:59:07Z",
+  "last_seen": "2026-11-11T11:59:07Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.sg/details/5961417693?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "permanent",
+  "salary": "54 000 – 66 000 S$",
+  "snippet": "Role Overview The FP&A Analyst will support the FP&A function in providing financial analysis, management reporting, budgeting, forecasting, and business insights to support management decision-making. The role will work closely with the Finance, Sales and Operations teams to analyse financial performance, identify trends and variances, and provide actionable insights to improve profitability, wor",
+  "initial": false
+ },
+ {
+  "id": "e504a0b6fda778b2",
+  "ids": [
+   "e504a0b6fda778b2"
+  ],
+  "fuzzy": "experienced trader dv trading an hour ago|tradermath|singapore",
+  "title": "Experienced Trader DV Trading · an hour ago",
+  "company": "Tradermath",
+  "location": "Singapore",
+  "url": "https://www.adzuna.sg/details/5961441105?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-11T17:31:25Z",
+  "first_seen": "2026-11-11T11:59:07Z",
+  "last_seen": "2026-11-11T11:59:07Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.sg/details/5961441105?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "contract",
+  "salary": "2 400 – 3 840 S$",
+  "snippet": "About Us: Founded 20 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America, Europe and Asia. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to ",
+  "initial": false
+ },
+ {
   "id": "3e2361dabba8b82e",
   "ids": [
    "3e2361dabba8b82e"
@@ -11,7 +552,7 @@
   "url": "https://www.adzuna.fr/details/5960347950?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-10T14:22:01Z",
   "first_seen": "2026-11-10T20:31:20Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -71,7 +612,7 @@
   "url": "https://www.adzuna.de/details/5960420073?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-10T15:24:38Z",
   "first_seen": "2026-11-10T20:31:20Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -101,7 +642,7 @@
   "url": "https://www.adzuna.fr/details/5959807499?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-10T04:44:13Z",
   "first_seen": "2026-11-10T12:49:36Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -131,7 +672,7 @@
   "url": "https://www.adzuna.fr/details/5959179594?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-09T14:18:25Z",
   "first_seen": "2026-11-10T12:49:36Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -162,7 +703,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5960207506?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-10T09:51:26Z",
   "first_seen": "2026-11-10T12:49:36Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -192,7 +733,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5959517151?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-09T20:18:19Z",
   "first_seen": "2026-11-10T12:49:36Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -222,7 +763,7 @@
   "url": "https://www.adzuna.fr/details/5959534304?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-09T22:53:44Z",
   "first_seen": "2026-11-09T23:03:40Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -252,7 +793,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5959475955?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-09T19:35:50Z",
   "first_seen": "2026-11-09T23:03:40Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -282,7 +823,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5959397042?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-09T17:41:04Z",
   "first_seen": "2026-11-09T23:03:40Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -312,7 +853,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5959333696?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-09T15:32:49Z",
   "first_seen": "2026-11-09T23:03:40Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -342,7 +883,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5959277327?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-09T14:05:21Z",
   "first_seen": "2026-11-09T23:03:40Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -372,7 +913,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5959215470?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-09T13:37:20Z",
   "first_seen": "2026-11-09T23:03:40Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -402,7 +943,7 @@
   "url": "https://www.adzuna.com/details/5959436120?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-09T14:08:03Z",
   "first_seen": "2026-11-09T23:03:40Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -492,7 +1033,7 @@
   "url": "https://www.adzuna.fr/details/5957701017?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-08T06:13:48Z",
   "first_seen": "2026-11-09T13:08:19Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -552,7 +1093,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5958703037?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-09T04:07:59Z",
   "first_seen": "2026-11-09T13:08:19Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -582,7 +1123,7 @@
   "url": "https://www.adzuna.co.uk/jobs/land/ad/5957979002?se=tufalj7c8RGaA9XS9OYmPQ&utm_medium=api&utm_source=d0504545&v=3AC5F83AA9EA03782E647A9D98254241BAD287E7",
   "published": "2026-11-08T10:03:32Z",
   "first_seen": "2026-11-09T13:08:19Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -642,7 +1183,7 @@
   "url": "https://www.adzuna.sg/details/5958359238?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-09T02:22:42Z",
   "first_seen": "2026-11-09T13:08:19Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -672,7 +1213,7 @@
   "url": "https://www.adzuna.sg/details/5959015362?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-09T17:27:28Z",
   "first_seen": "2026-11-09T13:08:19Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -702,7 +1243,7 @@
   "url": "https://www.adzuna.sg/details/5958042616?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-08T19:56:50Z",
   "first_seen": "2026-11-08T17:59:34Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -762,7 +1303,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5957979214?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-08T10:03:37Z",
   "first_seen": "2026-11-08T11:24:46Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -793,7 +1334,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5957968872?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-08T09:59:07Z",
   "first_seen": "2026-11-08T11:24:46Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -824,7 +1365,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5957969644?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-08T09:59:26Z",
   "first_seen": "2026-11-08T11:24:46Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -854,7 +1395,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5957977277?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-08T10:02:24Z",
   "first_seen": "2026-11-08T11:24:46Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -884,7 +1425,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5957968221?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-08T09:58:59Z",
   "first_seen": "2026-11-08T11:24:46Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1248,7 +1789,7 @@
   "url": "https://www.adzuna.sg/details/5957402026?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-08T04:13:22Z",
   "first_seen": "2026-11-07T20:59:57Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1550,7 +2091,7 @@
   "url": "https://www.adzuna.sg/details/5956736471?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-07T17:48:01Z",
   "first_seen": "2026-11-07T11:13:05Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -6632,7 +7173,8 @@
  {
   "id": "16c081fa35b3cce6",
   "ids": [
-   "16c081fa35b3cce6"
+   "16c081fa35b3cce6",
+   "bcaaf328b9172bd4"
   ],
   "fuzzy": "peo customer success specialist broker partners|niural|new",
   "title": "PEO Customer Success Specialist, Broker Partners",
@@ -6641,7 +7183,7 @@
   "url": "https://www.adzuna.com/details/5946055929?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-29T14:55:40Z",
   "first_seen": "2026-10-30T10:57:10Z",
-  "last_seen": "2026-10-30T10:57:10Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -17075,7 +17617,7 @@
   "url": "https://www.adzuna.com/land/ad/5930118568?se=yg-9LkHJ8RGYwPFSmBM_bA&utm_medium=api&utm_source=d0504545&v=8EE85A26B31498F838F83739DB9C81FA69112555",
   "published": "2026-10-16T02:04:18Z",
   "first_seen": "2026-10-16T09:09:00Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -17136,7 +17678,7 @@
   "url": "https://www.adzuna.sg/details/5928749526?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-15T17:38:58Z",
   "first_seen": "2026-10-16T09:09:00Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -17991,7 +18533,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5926189224?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-13T20:10:29Z",
   "first_seen": "2026-10-15T14:42:56Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
@@ -19537,7 +20079,7 @@
   "url": "https://www.adzuna.de/details/5922861279?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-11T05:31:02Z",
   "first_seen": "2026-10-15T14:42:56Z",
-  "last_seen": "2026-11-10T20:31:20Z",
+  "last_seen": "2026-11-11T11:59:07Z",
   "sources": [
    {
     "source": "adzuna",
