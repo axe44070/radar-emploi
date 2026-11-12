@@ -1,5 +1,35 @@
 [
  {
+  "id": "fb82f160faa4453e",
+  "ids": [
+   "fb82f160faa4453e"
+  ],
+  "fuzzy": "financial analyst|morgan mckinley|london",
+  "title": "Financial Analyst",
+  "company": "Morgan McKinley",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/land/ad/5963296033?se=vI5Zxtve8RGtfI4ANTZ8vw&utm_medium=api&utm_source=d0504545&v=DDE83594759AB75638F4B4024698FB45D508E93E",
+  "published": "2026-11-12T14:44:32Z",
+  "first_seen": "2026-11-12T20:58:38Z",
+  "last_seen": "2026-11-12T20:58:38Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/land/ad/5963296033?se=vI5Zxtve8RGtfI4ANTZ8vw&utm_medium=api&utm_source=d0504545&v=DDE83594759AB75638F4B4024698FB45D508E93E"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "50 427 – 50 427 £",
+  "snippet": "Financial Analyst Salary: Up to £50,000 Benefits Location: Central London Working Pattern: Hybrid - 3 days in the office Are you a driven Financial Analyst looking to develop your career within an established financial services environment? We are working with a leading financial institution looking to recruit a Financial Analyst to join its London-based Finance team. This is an excellent opportun",
+  "initial": false
+ },
+ {
   "id": "7af597f62c59a66b",
   "ids": [
    "7af597f62c59a66b"
@@ -11,7 +41,7 @@
   "url": "https://www.adzuna.fr/details/5962427409?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-12T04:13:47Z",
   "first_seen": "2026-11-12T12:59:43Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -41,7 +71,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5962893665?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-12T10:02:32Z",
   "first_seen": "2026-11-12T12:59:43Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -72,7 +102,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5962869634?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-12T09:43:08Z",
   "first_seen": "2026-11-12T12:59:43Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -102,7 +132,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5961480440?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-11T10:05:03Z",
   "first_seen": "2026-11-12T12:59:43Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -132,7 +162,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5962468330?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-12T03:54:13Z",
   "first_seen": "2026-11-12T12:59:43Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -162,7 +192,7 @@
   "url": "https://www.adzuna.com/details/5963055417?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-12T07:21:45Z",
   "first_seen": "2026-11-12T12:59:43Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -192,7 +222,7 @@
   "url": "https://www.adzuna.com/details/5961480537?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-11T05:05:09Z",
   "first_seen": "2026-11-12T12:59:43Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -223,7 +253,7 @@
   "url": "https://www.adzuna.com/land/ad/5962932339?se=1DZ-45je8RG-5eItnOLN_w&utm_medium=api&utm_source=d0504545&v=67471D7DB6EA230530FC62EFAF069D7C726F23E1",
   "published": "2026-11-12T05:48:27Z",
   "first_seen": "2026-11-12T12:59:43Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -253,7 +283,7 @@
   "url": "https://www.adzuna.com/details/5962534070?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-11T23:34:31Z",
   "first_seen": "2026-11-12T12:59:43Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -283,7 +313,7 @@
   "url": "https://www.adzuna.com/details/5962241064?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-11T17:38:07Z",
   "first_seen": "2026-11-12T12:59:43Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -313,7 +343,7 @@
   "url": "https://www.adzuna.com/details/5962859569?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-12T04:29:16Z",
   "first_seen": "2026-11-12T12:59:43Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -343,7 +373,7 @@
   "url": "https://www.adzuna.com/details/5963044597?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-12T06:54:35Z",
   "first_seen": "2026-11-12T12:59:43Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -373,7 +403,7 @@
   "url": "https://www.adzuna.sg/land/ad/5962929353?se=7qN67Jje8RGOyadC4uqgGw&utm_medium=api&utm_source=d0504545&v=47883ECA1EF69DE1FCF8F545C9721D23F7F60A0F",
   "published": "2026-11-12T18:43:22Z",
   "first_seen": "2026-11-12T12:59:43Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -403,7 +433,7 @@
   "url": "https://www.adzuna.sg/details/5963028672?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-12T19:30:44Z",
   "first_seen": "2026-11-12T12:59:43Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -433,7 +463,7 @@
   "url": "https://www.adzuna.fr/details/5961757459?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-11T15:47:24Z",
   "first_seen": "2026-11-11T19:45:38Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -464,7 +494,7 @@
   "url": "https://www.adzuna.fr/details/5961896427?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-11T17:56:43Z",
   "first_seen": "2026-11-11T19:45:38Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -494,7 +524,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5962004348?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-11T18:33:22Z",
   "first_seen": "2026-11-11T19:45:38Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -524,7 +554,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5961743076?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-11T14:32:37Z",
   "first_seen": "2026-11-11T19:45:38Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -584,7 +614,7 @@
   "url": "https://www.adzuna.fr/details/5960987501?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-11T04:59:31Z",
   "first_seen": "2026-11-11T11:59:07Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -614,7 +644,7 @@
   "url": "https://www.adzuna.fr/details/5960976851?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-11T04:44:36Z",
   "first_seen": "2026-11-11T11:59:07Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -674,7 +704,7 @@
   "url": "https://www.adzuna.fr/land/ad/5960905655?se=cLz9PMfd8RGKhbl5D1rFLQ&utm_medium=api&utm_source=d0504545&v=40976014E275C85AE3640497E16ECB03064DBA0D",
   "published": "2026-11-11T03:48:15Z",
   "first_seen": "2026-11-11T11:59:07Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -704,7 +734,7 @@
   "url": "https://www.adzuna.fr/details/5960348060?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-10T14:22:02Z",
   "first_seen": "2026-11-11T11:59:07Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -734,7 +764,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5961466737?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-11T09:52:20Z",
   "first_seen": "2026-11-11T11:59:07Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -764,7 +794,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5961466948?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-11T09:52:39Z",
   "first_seen": "2026-11-11T11:59:07Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -794,7 +824,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5960210217?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-10T09:59:11Z",
   "first_seen": "2026-11-11T11:59:07Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -855,7 +885,7 @@
   "url": "https://www.adzuna.com/details/5961331567?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-11T02:43:45Z",
   "first_seen": "2026-11-11T11:59:07Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1035,7 +1065,7 @@
   "url": "https://www.adzuna.com/details/5961416756?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-11T04:03:53Z",
   "first_seen": "2026-11-11T11:59:07Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1065,7 +1095,7 @@
   "url": "https://www.adzuna.sg/details/5961417693?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-11T17:07:09Z",
   "first_seen": "2026-11-11T11:59:07Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1095,7 +1125,7 @@
   "url": "https://www.adzuna.sg/details/5961441105?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-11T17:31:25Z",
   "first_seen": "2026-11-11T11:59:07Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1125,7 +1155,7 @@
   "url": "https://www.adzuna.fr/details/5960347950?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-10T14:22:01Z",
   "first_seen": "2026-11-10T20:31:20Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1185,7 +1215,7 @@
   "url": "https://www.adzuna.de/details/5960420073?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-10T15:24:38Z",
   "first_seen": "2026-11-10T20:31:20Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1215,7 +1245,7 @@
   "url": "https://www.adzuna.fr/details/5959807499?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-10T04:44:13Z",
   "first_seen": "2026-11-10T12:49:36Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1245,7 +1275,7 @@
   "url": "https://www.adzuna.fr/details/5959179594?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-09T14:18:25Z",
   "first_seen": "2026-11-10T12:49:36Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1276,7 +1306,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5960207506?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-10T09:51:26Z",
   "first_seen": "2026-11-10T12:49:36Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1306,7 +1336,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5959517151?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-09T20:18:19Z",
   "first_seen": "2026-11-10T12:49:36Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1336,7 +1366,7 @@
   "url": "https://www.adzuna.fr/details/5959534304?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-09T22:53:44Z",
   "first_seen": "2026-11-09T23:03:40Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1366,7 +1396,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5959475955?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-09T19:35:50Z",
   "first_seen": "2026-11-09T23:03:40Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1396,7 +1426,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5959397042?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-09T17:41:04Z",
   "first_seen": "2026-11-09T23:03:40Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1426,7 +1456,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5959333696?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-09T15:32:49Z",
   "first_seen": "2026-11-09T23:03:40Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1486,7 +1516,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5959215470?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-09T13:37:20Z",
   "first_seen": "2026-11-09T23:03:40Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1666,7 +1696,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5958703037?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-09T04:07:59Z",
   "first_seen": "2026-11-09T13:08:19Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1756,7 +1786,7 @@
   "url": "https://www.adzuna.sg/details/5958359238?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-09T02:22:42Z",
   "first_seen": "2026-11-09T13:08:19Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1786,7 +1816,7 @@
   "url": "https://www.adzuna.sg/details/5959015362?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-09T17:27:28Z",
   "first_seen": "2026-11-09T13:08:19Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -3617,7 +3647,8 @@
  {
   "id": "dc20e9d4d1bb548b",
   "ids": [
-   "dc20e9d4d1bb548b"
+   "dc20e9d4d1bb548b",
+   "77fe4b621ef2239e"
   ],
   "fuzzy": "insurance finance analyst|insight recruitment solutions limited|london",
   "title": "Insurance Finance Analyst",
@@ -3626,7 +3657,7 @@
   "url": "https://www.adzuna.co.uk/jobs/land/ad/5953502324?se=hqmVUxXZ8RGRpp9sJqJzxg&utm_medium=api&utm_source=d0504545&v=4931C74B4FA1F83BDC4656E3A2D4D611F762B040",
   "published": "2026-11-05T00:01:15Z",
   "first_seen": "2026-11-05T12:35:22Z",
-  "last_seen": "2026-11-08T17:59:34Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -9747,7 +9778,7 @@
   "url": "https://www.adzuna.co.uk/jobs/land/ad/5944314585?se=DmlZNLzS8RGo-vaGDT5ODQ&utm_medium=api&utm_source=d0504545&v=71042C32BEEE8A7F978F4655E7977193FDDB9E63",
   "published": "2026-10-28T08:24:54Z",
   "first_seen": "2026-10-28T10:42:18Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -12270,7 +12301,8 @@
  {
   "id": "6c18c17cf5f9e662",
   "ids": [
-   "6c18c17cf5f9e662"
+   "6c18c17cf5f9e662",
+   "4f5e9c9e1a4a50da"
   ],
   "fuzzy": "group benefits broker specialist|mercor|new",
   "title": "Group Benefits Broker - Specialist",
@@ -12279,7 +12311,7 @@
   "url": "https://www.adzuna.com/details/5939225435?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-23T07:38:44Z",
   "first_seen": "2026-10-23T19:22:29Z",
-  "last_seen": "2026-10-26T16:51:38Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -14963,7 +14995,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5936500324?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-21T09:55:21Z",
   "first_seen": "2026-10-21T09:28:41Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -19099,7 +19131,8 @@
   "ids": [
    "992af510575a54ea",
    "038c478f3ae4b723",
-   "df2bb09ff3bd7fd1"
+   "df2bb09ff3bd7fd1",
+   "9693a2e430a0c0a1"
   ],
   "fuzzy": "finance analyst|harper may|blackfriars",
   "title": "Finance Analyst",
@@ -19108,7 +19141,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5926189224?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-13T20:10:29Z",
   "first_seen": "2026-10-15T14:42:56Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
@@ -20654,7 +20687,7 @@
   "url": "https://www.adzuna.de/details/5922861279?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-11T05:31:02Z",
   "first_seen": "2026-10-15T14:42:56Z",
-  "last_seen": "2026-11-12T12:59:43Z",
+  "last_seen": "2026-11-12T20:58:38Z",
   "sources": [
    {
     "source": "adzuna",
