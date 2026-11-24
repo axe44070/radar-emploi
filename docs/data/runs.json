@@ -3687,5 +3687,46 @@
   "duration_s": 29.1,
   "notification_errors": [],
   "events": []
+ },
+ {
+  "at": "2026-11-24T23:57:55Z",
+  "sources": {
+   "francetravail": {
+    "status": "erreur",
+    "error": "SourceError: authentification refusée (400) : {\"error_description\":\"Client authentication failed\",\"error\":\"invalid_client\"}"
+   },
+   "apec": {
+    "status": "erreur",
+    "error": "HTTPError: 405 Client Error: Not Allowed for url: https://www.apec.fr/cms/webservices/rechercheOffre"
+   },
+   "adzuna": {
+    "status": "ok",
+    "raw": 437,
+    "kept": 44,
+    "new": 4,
+    "merged": 1
+   }
+  },
+  "new": 4,
+  "merged": 1,
+  "initial": 0,
+  "purged": 0,
+  "warnings": [],
+  "duration_s": 31.4,
+  "notification_errors": [],
+  "events": [
+   {
+    "type": "panne",
+    "source": "francetravail",
+    "failures": 122,
+    "error": "SourceError: authentification refusée (400) : {\"error_description\":\"Client authentication failed\",\"error\":\"invalid_client\"}"
+   },
+   {
+    "type": "panne",
+    "source": "apec",
+    "failures": 122,
+    "error": "HTTPError: 405 Client Error: Not Allowed for url: https://www.apec.fr/cms/webservices/rechercheOffre"
+   }
+  ]
  }
 ]
