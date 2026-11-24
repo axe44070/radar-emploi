@@ -3659,5 +3659,33 @@
   "duration_s": 26.3,
   "notification_errors": [],
   "events": []
+ },
+ {
+  "at": "2026-11-24T15:02:03Z",
+  "sources": {
+   "francetravail": {
+    "status": "erreur",
+    "error": "SourceError: authentification refusée (400) : {\"error_description\":\"Client authentication failed\",\"error\":\"invalid_client\"}"
+   },
+   "apec": {
+    "status": "erreur",
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.apec.fr/cms/webservices/rechercheOffre"
+   },
+   "adzuna": {
+    "status": "ok",
+    "raw": 415,
+    "kept": 40,
+    "new": 5,
+    "merged": 7
+   }
+  },
+  "new": 5,
+  "merged": 7,
+  "initial": 0,
+  "purged": 0,
+  "warnings": [],
+  "duration_s": 29.1,
+  "notification_errors": [],
+  "events": []
  }
 ]
