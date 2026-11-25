@@ -1,27 +1,26 @@
 {
  "sources": {
   "francetravail": {
-   "consecutive_failures": 123,
+   "consecutive_failures": 124,
    "history": [],
-   "last_try": "2026-11-25T14:41:21Z",
+   "last_try": "2026-11-25T23:42:19Z",
    "status": "erreur",
    "last_error": "SourceError: authentification refusée (400) : {\"error_description\":\"Client authentication failed\",\"error\":\"invalid_client\"}",
-   "last_error_at": "2026-11-25T14:41:21Z",
+   "last_error_at": "2026-11-25T23:42:19Z",
    "alerted_at": "2026-11-24T23:57:55Z"
   },
   "apec": {
-   "consecutive_failures": 123,
+   "consecutive_failures": 124,
    "history": [],
-   "last_try": "2026-11-25T14:41:21Z",
+   "last_try": "2026-11-25T23:42:19Z",
    "status": "erreur",
    "last_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.apec.fr/cms/webservices/rechercheOffre",
-   "last_error_at": "2026-11-25T14:41:21Z",
+   "last_error_at": "2026-11-25T23:42:19Z",
    "alerted_at": "2026-11-24T23:57:55Z"
   },
   "adzuna": {
    "consecutive_failures": 0,
    "history": [
-    529,
     570,
     358,
     488,
@@ -50,18 +49,19 @@
     339,
     415,
     437,
-    453
+    453,
+    507
    ],
-   "last_try": "2026-11-25T14:41:21Z",
+   "last_try": "2026-11-25T23:42:19Z",
    "status": "ok",
-   "last_ok": "2026-11-25T14:41:21Z",
+   "last_ok": "2026-11-25T23:42:19Z",
    "last_error": null,
-   "last_count": 453,
-   "last_kept": 36,
+   "last_count": 507,
+   "last_kept": 50,
    "zero_streak": 0,
-   "total_new": 911
+   "total_new": 922
   }
  },
- "last_run": "2026-11-25T14:41:21Z",
+ "last_run": "2026-11-25T23:42:19Z",
  "last_weekly": "2026-W48"
 }

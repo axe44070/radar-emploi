@@ -1,5 +1,336 @@
 [
  {
+  "id": "26757fa52f21281b",
+  "ids": [
+   "26757fa52f21281b"
+  ],
+  "fuzzy": "european interest rates exotics trader f h|bnp paribas|paris",
+  "title": "European Interest Rates Exotics Trader F/H",
+  "company": "BNP PARIBAS",
+  "location": "Paris, Ile-de-France",
+  "url": "https://www.adzuna.fr/land/ad/5978588753?se=UKNl3Cnp8RGkXLhigqT_Xg&utm_medium=api&utm_source=d0504545&v=AC02D72E82A4E070D4B79C7B0EEAE87E5475CCA5",
+  "published": "2026-11-25T16:41:31Z",
+  "first_seen": "2026-11-25T23:42:49Z",
+  "last_seen": "2026-11-25T23:42:49Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.fr/land/ad/5978588753?se=UKNl3Cnp8RGkXLhigqT_Xg&utm_medium=api&utm_source=d0504545&v=AC02D72E82A4E070D4B79C7B0EEAE87E5475CCA5"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "permanent",
+  "salary": "",
+  "snippet": "AU QUOTIDIEN CA DONNE QUOI ? Vous rejoindrez l'équipe IR Options au sein de Global Markets chez BNP Paribas. En tant que trader au sein de l'équipe de trading European IR Exotics , vous travaillerez sous la supervision directe et étroite de traders plus expérimentés. Vous serez responsable de garantir l'excellence dans toutes les activités qui vous seront confiées, de manière directe ou indirecte.",
+  "initial": false
+ },
+ {
+  "id": "fe3864933e048e4a",
+  "ids": [
+   "fe3864933e048e4a"
+  ],
+  "fuzzy": "investment banking analyst|william blair|london",
+  "title": "Investment Banking Analyst",
+  "company": "William Blair",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5978559473?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-25T15:03:50Z",
+  "first_seen": "2026-11-25T23:42:49Z",
+  "last_seen": "2026-11-25T23:42:49Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5978559473?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance",
+   "Banque"
+  ],
+  "score": 5,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "61 909 – 61 909 £",
+  "snippet": "The position supports senior bankers by preparing detailed analyses and presentations, while also mentoring junior staff and interns on best practices. What you will do Build financial models using comparable companies, precedents, and discounted cash flow methods. Conduct due diligence and research for mergers, acquisitions, and capital raising deals. Draft management presentations and marketing ",
+  "initial": false
+ },
+ {
+  "id": "8c428ac4613b9f6e",
+  "ids": [
+   "8c428ac4613b9f6e"
+  ],
+  "fuzzy": "fp a analyst europe|univers|london",
+  "title": "FP&A Analyst, Europe",
+  "company": "Univers",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5978558575?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-25T15:03:42Z",
+  "first_seen": "2026-11-25T23:42:49Z",
+  "last_seen": "2026-11-25T23:42:49Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5978558575?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "52 823 – 52 823 £",
+  "snippet": "The team works closely with business stakeholders across sales, product, and operations to provide forward-looking insights. This role suits a commercially minded professional who is comfortable with large data sets and financial models. What you will do Prepare monthly management reporting packs, including P&L and variance analysis. Develop and maintain standardised reporting templates and dashbo",
+  "initial": false
+ },
+ {
+  "id": "21646091ed2fc567",
+  "ids": [
+   "21646091ed2fc567"
+  ],
+  "fuzzy": "commercial finance analyst|pan macmillan|london",
+  "title": "Commercial Finance Analyst",
+  "company": "Pan Macmillan",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5978561560?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-25T15:04:08Z",
+  "first_seen": "2026-11-25T23:42:49Z",
+  "last_seen": "2026-11-25T23:42:49Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5978561560?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "49 695 – 49 695 £",
+  "snippet": "This position suits a qualified accountant who wants to work closely with editorial and contracts teams. The role involves maintaining data integrity across publishing systems and providing insights that influence title acquisitions. What you will do Manage author financials, including advances, royalties, and month-end reconciliations Produce profitability reports for authors and titles to guide ",
+  "initial": false
+ },
+ {
+  "id": "b688d565b0a3e62b",
+  "ids": [
+   "b688d565b0a3e62b"
+  ],
+  "fuzzy": "finance analyst|petroineos|london",
+  "title": "Finance Analyst",
+  "company": "Petroineos",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5978557480?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-25T15:03:31Z",
+  "first_seen": "2026-11-25T23:42:49Z",
+  "last_seen": "2026-11-25T23:42:49Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5978557480?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "36 529 – 36 529 £",
+  "snippet": "The role suits a detail-oriented analyst with strong trading accounting skills who wants to work in a busy environment. The position involves close collaboration with product control and settlements teams to ensure accurate financial reporting under IFRS standards. What you will do Prepare monthly trading margin results for crude oil, refined products, and biofuels Identify and explain breaks betw",
+  "initial": false
+ },
+ {
+  "id": "ba6483506314c808",
+  "ids": [
+   "ba6483506314c808"
+  ],
+  "fuzzy": "management information finance analyst|land securities properties|london",
+  "title": "Management Information Finance Analyst",
+  "company": "Land Securities Properties Ltd",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5978557145?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-25T15:03:28Z",
+  "first_seen": "2026-11-25T23:42:49Z",
+  "last_seen": "2026-11-25T23:42:49Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5978557145?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "59 882 – 59 882 £",
+  "snippet": "The position sits within the Group Finance team, working closely with Commercial Finance and Treasury to turn operational data into clear insights for the board. What you will do Prepare monthly financial and operational reports for the Group Board pack. Partner with finance and treasury teams to ensure data accuracy and clear variance analysis. Identify opportunities to simplify and automate repo",
+  "initial": false
+ },
+ {
+  "id": "ce2fbb66aaeeaeed",
+  "ids": [
+   "ce2fbb66aaeeaeed"
+  ],
+  "fuzzy": "finance analyst emea|capri|london",
+  "title": "Finance Analyst, EMEA",
+  "company": "Capri",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5978551748?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-25T15:03:02Z",
+  "first_seen": "2026-11-25T23:42:49Z",
+  "last_seen": "2026-11-25T23:42:49Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5978551748?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Finance"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "permanent",
+  "salary": "42 991 – 42 991 £",
+  "snippet": "The ideal candidate has commercial acumen, analytical skills, and a collaborative approach to financial analysis. What you will do Support preparation of EMEA forecast financial information and budget cycle Provide financial insights for weekly trade calls and monthly close processes Monitor capital expenditure and prepare monthly commission calculations What they look for Graduate from a top tier",
+  "initial": false
+ },
+ {
+  "id": "90d58aab292968f6",
+  "ids": [
+   "90d58aab292968f6"
+  ],
+  "fuzzy": "kyc analyst|delta capita|london",
+  "title": "KYC Analyst",
+  "company": "Delta Capita",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5978554144?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-25T15:03:15Z",
+  "first_seen": "2026-11-25T23:42:49Z",
+  "last_seen": "2026-11-25T23:42:49Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5978554144?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Banque"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "54 719 – 54 719 £",
+  "snippet": "Ideal for someone with an entrepreneurial spirit who can work in a busy environment while maintaining quality. What you will do Conduct end-to-end Customer Due Diligence reviews across various jurisdictions. Ensure compliance with AML/KYC regulations and address documentation gaps. Work with Asset Managers on client servicing and relationship management. Engage with internal teams to complete KYC ",
+  "initial": false
+ },
+ {
+  "id": "0b5ada041ec16e0f",
+  "ids": [
+   "0b5ada041ec16e0f"
+  ],
+  "fuzzy": "investment management analyst trading assistant|morgan stanley|london",
+  "title": "Investment Management - Analyst, Trading Assistant",
+  "company": "Morgan Stanley",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5978557156?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-25T15:03:28Z",
+  "first_seen": "2026-11-25T23:42:49Z",
+  "last_seen": "2026-11-25T23:42:49Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5978557156?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Marchés et sales"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "50 012 – 50 012 £",
+  "snippet": "The team supports traders with operational tasks across multiple time zones. This role is ideal for a detail-oriented individual who wants to learn the mechanics of trading and settlement in emerging markets. What you will do Assist traders with pre-trade checks, including position confirmation and cash balances. Perform post-trade functions like allocations to brokers and settlement coordination.",
+  "initial": false
+ },
+ {
+  "id": "fef84a1e2fbcc307",
+  "ids": [
+   "fef84a1e2fbcc307"
+  ],
+  "fuzzy": "compliance analyst|jane street|london",
+  "title": "Compliance Analyst",
+  "company": "Jane Street",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5978557049?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-25T15:03:27Z",
+  "first_seen": "2026-11-25T23:42:49Z",
+  "last_seen": "2026-11-25T23:42:49Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.co.uk/jobs/details/5978557049?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Banque"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "39 305 – 39 305 £",
+  "snippet": "Part of a dedicated group focused on protecting colleagues and ensuring adherence to UK and EU regulatory standards. What you will do Help trading desks understand how disclosure rules apply to their specific activities. Analyze new regulations and translate them into clear business requirements. Work with developers to improve compliance tools and identify process efficiencies. What they look for",
+  "initial": false
+ },
+ {
+  "id": "ba33e9c6f9d36b0d",
+  "ids": [
+   "ba33e9c6f9d36b0d"
+  ],
+  "fuzzy": "spezialist stammdatenmanagement kyc datenqualitat m w d|geno broker|bockenheim",
+  "title": "Spezialist Stammdatenmanagement – KYC & Datenqualität (m/w/d)",
+  "company": "GENO Broker GmbH",
+  "location": "Bockenheim, Frankfurt am Main",
+  "url": "https://www.adzuna.de/details/5978789016?utm_medium=api&utm_source=d0504545",
+  "published": "2026-11-25T21:02:04Z",
+  "first_seen": "2026-11-25T23:42:49Z",
+  "last_seen": "2026-11-25T23:42:49Z",
+  "sources": [
+   {
+    "source": "adzuna",
+    "url": "https://www.adzuna.de/details/5978789016?utm_medium=api&utm_source=d0504545"
+   }
+  ],
+  "profiles": [
+   "Banque"
+  ],
+  "score": 3,
+  "to_check": false,
+  "priority": false,
+  "contract": "",
+  "salary": "",
+  "snippet": "Das baust du mit uns auf Aktuelle und korrekte Kundendaten sind die Grundlage für sicheres Banking. Du sorgst dafür, dass unsere Kundenstammdaten zuverlässig gepflegt, regulatorische Anforderungen erfüllt und Prozesse kontinuierlich verbessert werden. In dieser Rolle gestaltest du unser Stammdatenmanagement im Wertpapier- und Depotservice mit. Du überwachst die Aktualisierung relevanter Kundendate",
+  "initial": false
+ },
+ {
   "id": "b18ca9fa3336b329",
   "ids": [
    "b18ca9fa3336b329"
@@ -11,7 +342,7 @@
   "url": "https://www.adzuna.fr/details/5977746469?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-25T04:26:14Z",
   "first_seen": "2026-11-25T14:41:44Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -41,7 +372,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5978199975?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-25T10:09:51Z",
   "first_seen": "2026-11-25T14:41:44Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -71,7 +402,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5978043033?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-25T07:28:08Z",
   "first_seen": "2026-11-25T14:41:44Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -101,7 +432,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5978092247?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-25T08:04:55Z",
   "first_seen": "2026-11-25T14:41:44Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -131,7 +462,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5977799324?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-25T03:58:24Z",
   "first_seen": "2026-11-25T14:41:44Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -161,7 +492,7 @@
   "url": "https://www.adzuna.com/details/5977901694?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-25T01:05:56Z",
   "first_seen": "2026-11-25T14:41:44Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -253,7 +584,7 @@
   "url": "https://www.adzuna.com/details/5977867042?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-25T00:03:52Z",
   "first_seen": "2026-11-25T14:41:44Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -283,7 +614,7 @@
   "url": "https://www.adzuna.com/details/5977378775?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-24T12:35:23Z",
   "first_seen": "2026-11-25T14:41:44Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -313,7 +644,7 @@
   "url": "https://www.adzuna.sg/details/5977016733?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-24T18:38:06Z",
   "first_seen": "2026-11-25T14:41:44Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -343,7 +674,7 @@
   "url": "https://www.adzuna.sg/details/5978222364?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-25T18:47:04Z",
   "first_seen": "2026-11-25T14:41:44Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -373,7 +704,7 @@
   "url": "https://www.adzuna.sg/details/5978221308?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-25T18:44:15Z",
   "first_seen": "2026-11-25T14:41:44Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -433,7 +764,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5977566092?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-24T21:00:13Z",
   "first_seen": "2026-11-24T23:58:26Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -464,7 +795,7 @@
   "url": "https://www.adzuna.co.uk/jobs/land/ad/5977564932?se=eno74WLo8RGi1apkMwkphA&utm_medium=api&utm_source=d0504545&v=9149916638F73E58C94BEF8DBAEDD6884AA5FA31",
   "published": "2026-11-24T20:59:17Z",
   "first_seen": "2026-11-24T23:58:26Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -555,7 +886,7 @@
   "url": "https://www.adzuna.fr/details/5976864336?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-24T08:09:12Z",
   "first_seen": "2026-11-24T15:02:32Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -615,7 +946,7 @@
   "url": "https://www.adzuna.sg/land/ad/5975953674?se=UK7YERjo8RG1LPOIsgDrkA&utm_medium=api&utm_source=d0504545&v=CF439EA59878F2D24CBAE71743438D594BECD0F0",
   "published": "2026-11-23T16:59:40Z",
   "first_seen": "2026-11-24T15:02:32Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -675,7 +1006,7 @@
   "url": "https://www.adzuna.fr/details/5976577378?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-24T02:24:54Z",
   "first_seen": "2026-11-24T02:25:22Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -796,7 +1127,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5974894085?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-22T09:49:21Z",
   "first_seen": "2026-11-22T12:44:21Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -856,7 +1187,7 @@
   "url": "https://www.adzuna.com/details/5974921484?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-22T05:27:00Z",
   "first_seen": "2026-11-22T12:44:21Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -887,7 +1218,7 @@
   "url": "https://www.adzuna.com/details/5974889539?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-22T04:30:26Z",
   "first_seen": "2026-11-22T12:44:21Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -918,7 +1249,7 @@
   "url": "https://www.adzuna.sg/details/5974926080?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-22T18:35:10Z",
   "first_seen": "2026-11-22T12:44:21Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1339,7 +1670,7 @@
   "url": "https://www.adzuna.sg/details/5973947026?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-21T18:30:13Z",
   "first_seen": "2026-11-21T12:51:45Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1490,7 +1821,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5973253990?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-20T20:46:04Z",
   "first_seen": "2026-11-20T21:21:40Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1551,7 +1882,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5973010071?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-20T14:37:15Z",
   "first_seen": "2026-11-20T21:21:40Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -1962,7 +2293,8 @@
  {
   "id": "3d46e4cb7d87b30f",
   "ids": [
-   "3d46e4cb7d87b30f"
+   "3d46e4cb7d87b30f",
+   "57231b1080422f53"
   ],
   "fuzzy": "trade support analyst|delta capita|london",
   "title": "Trade Support Analyst",
@@ -1971,7 +2303,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5972665760?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-20T08:05:01Z",
   "first_seen": "2026-11-20T13:18:28Z",
-  "last_seen": "2026-11-23T15:02:55Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -2692,7 +3024,7 @@
   "url": "https://www.adzuna.com/details/5970406244?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-18T09:29:40Z",
   "first_seen": "2026-11-18T21:29:10Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -3045,7 +3377,8 @@
   "id": "6d8c5dfc5c2fc8ee",
   "ids": [
    "6d8c5dfc5c2fc8ee",
-   "14859d56015523ce"
+   "14859d56015523ce",
+   "2840f3e6c119ad99"
   ],
   "fuzzy": "trade support analyst cash equities|ipoe consulting|london",
   "title": "Trade Support Analyst, Cash Equities",
@@ -3054,7 +3387,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5969088773?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-17T14:02:33Z",
   "first_seen": "2026-11-17T22:30:58Z",
-  "last_seen": "2026-11-24T23:58:26Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -3077,7 +3410,8 @@
   "ids": [
    "1e95eeec7e109f3a",
    "2873a36c2e1e0c7d",
-   "6586f7da3fd8e142"
+   "6586f7da3fd8e142",
+   "5a90ef44507f9e89"
   ],
   "fuzzy": "trainee broker|pgs|london",
   "title": "Trainee Broker",
@@ -3086,7 +3420,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5969088620?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-17T14:02:31Z",
   "first_seen": "2026-11-17T22:30:58Z",
-  "last_seen": "2026-11-24T23:58:26Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -3750,7 +4084,7 @@
   "url": "https://www.adzuna.fr/details/5966947886?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-15T15:58:47Z",
   "first_seen": "2026-11-15T18:59:43Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -6698,7 +7032,8 @@
  {
   "id": "cdc18493ce769d08",
   "ids": [
-   "cdc18493ce769d08"
+   "cdc18493ce769d08",
+   "ce1aa1f83b0cd08e"
   ],
   "fuzzy": "commercial finance analyst|herbert smith freehills|london",
   "title": "Commercial Finance Analyst",
@@ -6707,7 +7042,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5960207506?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-10T09:51:26Z",
   "first_seen": "2026-11-10T12:49:36Z",
-  "last_seen": "2026-11-13T20:33:34Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -7337,7 +7672,8 @@
  {
   "id": "1a6e84433e2917eb",
   "ids": [
-   "1a6e84433e2917eb"
+   "1a6e84433e2917eb",
+   "68df9636a73288f3"
   ],
   "fuzzy": "investment banking analyst industrial consumer|baird|london",
   "title": "Investment Banking Analyst - Industrial & Consumer",
@@ -7346,7 +7682,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5957968872?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-08T09:59:07Z",
   "first_seen": "2026-11-08T11:24:46Z",
-  "last_seen": "2026-11-11T19:45:38Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -11883,7 +12219,7 @@
   "url": "https://www.adzuna.com/details/5949055358?utm_medium=api&utm_source=d0504545",
   "published": "2026-11-01T05:03:27Z",
   "first_seen": "2026-11-01T11:24:28Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -14817,7 +15153,7 @@
   "url": "https://www.adzuna.fr/details/5943891622?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-28T02:38:47Z",
   "first_seen": "2026-10-28T10:42:18Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -15723,7 +16059,7 @@
   "url": "https://www.adzuna.fr/details/5942975687?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-27T03:18:50Z",
   "first_seen": "2026-10-27T09:55:32Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -15755,7 +16091,7 @@
   "url": "https://www.adzuna.fr/details/5942895608?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-27T02:35:14Z",
   "first_seen": "2026-10-27T09:55:32Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -18597,7 +18933,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5938310346?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T21:31:27Z",
   "first_seen": "2026-10-23T09:27:42Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -18838,7 +19174,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5938310347?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-22T21:31:27Z",
   "first_seen": "2026-10-22T23:28:55Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -19384,7 +19720,7 @@
   "url": "https://www.adzuna.com/details/5937264009?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-21T22:25:52Z",
   "first_seen": "2026-10-22T09:31:39Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -20862,7 +21198,8 @@
  {
   "id": "6729d870248fdd72",
   "ids": [
-   "6729d870248fdd72"
+   "6729d870248fdd72",
+   "aec3e9aae43fc517"
   ],
   "fuzzy": "investment banking analyst tech services|baird|london",
   "title": "Investment Banking Analyst - Tech & Services",
@@ -20871,7 +21208,7 @@
   "url": "https://www.adzuna.co.uk/jobs/details/5934057176?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-19T09:50:33Z",
   "first_seen": "2026-10-20T09:32:28Z",
-  "last_seen": "2026-10-22T23:28:55Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
@@ -23774,7 +24111,7 @@
   "url": "https://www.adzuna.fr/details/5929183790?utm_medium=api&utm_source=d0504545",
   "published": "2026-10-15T18:10:19Z",
   "first_seen": "2026-10-15T22:31:33Z",
-  "last_seen": "2026-11-25T14:41:44Z",
+  "last_seen": "2026-11-25T23:42:49Z",
   "sources": [
    {
     "source": "adzuna",
